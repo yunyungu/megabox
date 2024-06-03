@@ -1,0 +1,412 @@
+@charset 'utf-8';
+
+/* header 색상변경 */
+.header{
+    background:#fff;
+}
+.header .dt-nav{
+    color:#000;
+}
+.header .dt-nav .main-nav::after{
+    background: #037b94;
+}
+.header .dt-nav .sub-nav{
+    color:#fff;
+    font-weight:700;
+}
+.q-nav>ul{
+    color:#444;
+}
+h1 a{
+    background:url(../images/logo-main.png) no-repeat center;
+}
+.q-nav03>ul>li:nth-child(1)>a{
+    background:url(../images/ico-nav.png) no-repeat center bottom;
+}
+.q-nav03>ul>li:nth-child(2)>a{
+    background-image:url(../images/ico-search.png);
+}
+.q-nav04>ul>li:nth-child(1)>a{
+    background-image:url(../images/ico-schedule.png);
+}
+.q-nav04>ul>li:nth-child(2)>a{
+    background-image:url(../images/ico-mymega.png);
+}
+.btn-nav {
+    background-image:url(../images/ico-nav.png);
+}
+
+
+/* 페이지이동 스타일 */
+.sec-movie{
+    padding-top:100px;
+}
+.movie-nav{
+    margin-bottom:40px;
+}
+.movie-nav ul{
+    display:grid;
+    grid-template-columns: repeat(5,20%);
+    font-size:1.2em;
+    text-align:center;
+}
+.movie-nav li{
+    border:1px solid #ccc;
+    border-bottom-color:#503396;
+    padding:0.5em 0;
+    cursor:pointer;
+}
+.movie-nav li.active{
+    border-color:#503396;
+    border-bottom-color:transparent;
+    color:#503396;
+}
+.movie-nav li:last-child{
+    display:none;
+}
+
+/* curation style (moblie only) */
+.cura-nav{
+    display:none;
+}
+.cura-nav ul{
+    display:flex;
+    gap:1em;
+    margin:1em 0 0 2em;
+}
+.cura-nav ul li{
+    border-radius:6px;
+    background-color: rgb(80, 51, 150, 0.1);
+    padding:0.8em 1em;
+}
+.cura-nav ul li.active{
+    background-color: rgb(80, 51, 150, 1);
+    color:#fff;
+}
+
+/* article style */
+.art ul{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:60px;
+}
+/* 더보기 */
+.art li.more01,.art li.more02, .art li.more03{
+    display:none;
+}
+.art li.more01.active{
+    display:block; 
+}
+.art li.more02.active{
+    display:block; 
+}
+.art li.more03.active{
+    display:block; 
+}
+
+
+/* more 버튼스타일 */
+.art .btn-more{
+    width:100%;
+    border:1px solid #ccc;
+    margin-top:50px;
+    padding:0.8em;
+    background:#fff;
+    font-size:1em; 
+    cursor:pointer;           
+}
+.art .btn-more:hover{
+    border-color:#999;
+}
+
+/* 포스터스타일 */
+.poster-wrap{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    column-gap:6px;
+    row-gap:12px;
+}
+.poster-box{
+    grid-area:1/1/2/-1;
+    position:relative;
+}
+.poster-box .img-box{
+    width:230px;
+    height:330px;
+    overflow:hidden;
+}
+.poster-box img{
+    object-fit:cover;
+    /* width:100%; */
+    height:100%;
+}
+.movie-num,.movie-content{
+    position:absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    padding:32px 16px;
+}
+.movie-num{
+    top:-10px;
+    font-size:2em;
+    font-style:italic;
+    text-shadow:2px 2px 2px #000;
+    color:#fff;
+}
+.movie-content{
+    background:rgba(0,0,0,0.7);
+    display:grid;
+    opacity:0;
+    grid-template-rows:8fr 1fr;
+    row-gap:20px;
+    color:#fff;
+    transition:0.4s;
+}
+.poster-box:hover .movie-content{
+    opacity:1;
+}
+.movie-content p{
+    line-height:1.6;
+    overflow:hidden;
+}
+.movie-content span{
+    font-size:1.2em;
+    text-align:center;
+}
+.movie-content>span{
+    border-top:1px solid #ccc;
+    padding-top:0.7em;
+}
+.movie-content span span{
+    font-size:1.4em;
+    color:#77f2ff;
+}
+
+.poster-info{
+    position:relative;
+    grid-area:2/1/3/-1;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:12px;
+}
+.poster-info h3{
+    grid-area:1/1/2/-1;
+    font-size:1.5em;
+    padding-left:1.5em;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+}
+.poster-info img{
+    position:absolute;
+    left:0;
+    top:0;
+    width:26px;
+}
+.poster-info .info-txt{
+    grid-area:2/1/3/-1;
+    display:grid;
+    grid-template-columns:40% 60%;
+}
+.poster-info .info-txt01{
+    position: relative;
+}
+.poster-info .info-txt01::after{
+    content:'';
+    display:block;
+    position:absolute;
+    right:-5px;
+    top:50%;
+    transform:translateY(-50%);
+    height:12px;
+    width:1px;
+    background:#ccc;
+}
+.poster-info .info-txt02{
+    text-align:right;
+}
+.poster-info .hit{
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content:space-between;
+    position:relative;
+    grid-area:3/1/4/2;
+    border:1px solid #ddd;
+    border-radius:6px;
+    padding:0.6em;
+    text-align:right;
+}
+.poster-info .hit button{
+    width:17px;
+    height:15px;
+    border:none;
+    background:transparent url(../images/ico-heart-toggle-gray.png) no-repeat left center;
+    background-size:cover;
+    cursor: pointer;
+}
+.poster-info .hit button.click{
+    background-position-x:right;
+}
+.poster-info .ticketing{
+    grid-area:3/2/4/-1;        
+    border-radius:6px;
+    padding:0.6em;
+    background:#037b94;
+    color:#fff;
+    text-align:center;
+}
+.poster-info-m{
+    display:none;
+}
+
+
+
+@media (max-width:1099px){
+    h1 a{
+        width:100px;
+        height:20px;
+        margin:0 auto;
+        background-position:center top;
+        background-size:cover;
+    }
+    .sec-movie{
+        padding-top:175px;
+    }
+    .art ul{
+        grid-template-columns: repeat(1,1fr);
+        gap:0;
+    }
+    .movie-nav{
+        margin-bottom:0px;
+    }
+    .movie-nav ul{
+        display:flex;
+        border-bottom:1px solid #ccc;
+    }
+    .movie-nav li{
+        padding:1em;
+        border:none;
+        color:#aaa;
+    }
+    .movie-nav li.active{
+        border-bottom:2px solid #503396;
+        color:#503396;
+        font-weight:700;
+    }
+    .movie-nav li:nth-child(4),
+    .movie-nav li:nth-child(5){
+        display:none;
+    }
+    .movie-nav li:last-child{
+        display:block;
+    }
+    .poster-wrap{
+        display:flex;
+        padding:2em 1em;
+        border-bottom:1px solid #ccc;
+    }
+    .poster-info, .poster-box:hover .movie-content{
+        display: none;
+    }
+    .poster-box{
+        border-radius:8px;
+        overflow:hidden;
+        width:162px;
+        height:231px;
+    }
+    .poster-box .img-box{
+        width:100%;
+        height:100%;
+    }
+    .movie-num{
+        font-size:1.7em;
+        padding:20px 10px;
+    }
+    .poster-info-m{
+        display:flex;
+        flex-flow:wrap column;
+        position:relative;
+        padding:0.4em 5em 0.8em 0.5em;
+        justify-content:space-between;
+        width:calc(100vw - 180px);
+    }
+    .poster-info-m h3{
+        font-size:1.5em;
+    }
+    .poster-info-m>div:nth-child(2) p{
+        margin-top:10px;
+    }
+    .poster-info-m .ticketing{
+        position:absolute;
+        right:80px;
+        bottom:0px;        
+        border-radius:6px;
+        padding:0.6em 1em;
+        background:#14b9cb;
+        color:#fff;
+        text-align:center;
+    }
+    .poster-info-m p{
+        font-size:1.1em;
+    }
+    .poster-info-m span{
+        font-size:1.1em;
+        color:#999;
+        margin-right:10px;
+    }
+    .poster-info-m img{
+        position:absolute;
+        width:30px;
+        height:30px;
+        left:-45px;
+        top:190px;
+    }
+    .art li.more01,.art li.more02, .art li.more03{
+        display:block;
+    }
+    .btn-more{
+        display:none;
+    }
+}
+
+@media (max-width:880px){
+    
+}
+
+
+@media (max-width:767px){
+    .poster-info-m .ticketing{
+        right:30px;
+    }
+}
+
+@media (max-width:520px){
+    
+}
+
+@media (max-width:480px){
+    .movie-nav ul{
+        font-size:1em;
+    }
+    .movie-nav li{
+        padding:1em 0.7em;
+    }
+    .poster-box{
+        width:135px;
+        height:192px;
+    }
+    .poster-info-m{
+        width:calc(100vw - 140px);
+    }
+    .poster-info-m img{
+        width:25px;
+        height:25px;
+        left:-40px;
+        top:155px;
+    }
+    .movie-num{
+        font-size:1.5em;
+    }
+}

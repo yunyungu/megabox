@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="꿈과 희망이 넘치는 사람들의 문화공간 메가박스">
+    <meta name="keywords" content="메가박스,megabox,영화,극장,movie,티켓,ticket,박스오픽스,한국영화,외화">
+    <meta property="og:title" content="MEET PLAY SHARE, 메가박스">
+    <meta property="og:image" content="./images/img-og.jpg">
+    <meta property="og:description" content="꿈과 희망이 넘치는 사람들의 문화공간 메가박스">
+    <meta property="og:url" content="https://pam7461.github.io/megabox/">
+
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="./css/reset.css">
+    <!-- 공통스타일 -->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- 인덱스스타일 -->
+    <link rel="stylesheet" href="./css/index.css">
+
+    <script src="./js/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha512-3j3VU6WC5rPQB4Ld1jnLV7Kd5xr+cq9avvhwqzbH/taCRNURoeEpoPBK9pDyeukwSxwRPJ8fDgvYXd6SkaZ2TA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script src="./js/megabox.js"></script>
+
+    <title>MEET PLAY SHARE, 메가박스</title>
+
+</head>
+<body>
+    <div class="ad ad01">
+        <div class="container">
+            <div class="img-box">
+                <a href="#"><img src="./images/img-ad01.png" alt="현대해상 바로가기"></a>
+            </div>
+        </div>
+        <div class="btn-close-ad">&times;</div>
+    </div>
+
+    <section class="wrap">
+
+        <header id="header" class="header">
+            <div class="container">
+                <h1><a href="./index.html">매가박스</a></h1>
+
+                <div class="q-nav q-nav01">
+                    <ul>
+                        <li class="membership-item"><a href="./membership.html#vip">VIP LOUNGE</a></li>
+                        <li class="membership-item"><a href="./membership.html#membership">멤버십</a></li>
+                        <li><a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">고객센터</a></li>
+                    </ul>
+                </div>
+
+                <div class="q-nav q-nav02">
+                    <ul>
+                        <li><a href="#" class="btn-login">로그인</a></li>
+                        <li><a href="./join.html">회원가입</a></li>
+                        <li><a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">빠른예매</a></li>
+                    </ul>
+                </div>
+
+                <div class="q-nav q-nav03">
+                    <ul>
+                        <li>
+                            <a href="#" title="사이트맵" class="btn-header">사이트맵</a>
+                            <div class="dis-none site-map">
+                                <div class="container">
+                                    <h2>SITEMAP</h2>
+                                    <ul class="site-map-lest">
+                                        <li>
+                                            <h3>영화</h3>
+                                            <ul>
+                                                <li><a href="#">전체영화</a></li>
+                                                <li><a href="#">큐레이션</a></li>
+                                                <li><a href="#">영화제</a></li>
+                                                <li><a href="#">무비포스트</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>예매</h3>
+                                            <ul>
+                                                <li><a href="#">빠른예매</a></li>
+                                                <li><a href="#">상영시간표</a></li>
+                                                <li><a href="#">더 부티크 프라이빗 예매</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>극장</h3>
+                                            <ul>
+                                                <li><a href="#">전체극장</a></li>
+                                                <li><a href="#">특별관</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>이벤트</h3>
+                                            <ul>
+                                                <li><a href="#">진행중 이벤트</a></li>
+                                                <li><a href="#">지난 이벤트</a></li>
+                                                <li><a href="#">당첨자발표</a></li>                                                
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>스토어</h3>
+                                            <ul>
+                                                <li><a href="#">새로운 상품</a></li>
+                                                <li><a href="#">메가티켓</a></li>
+                                                <li><a href="#">팝콘/음료/굿즈</a></li>
+                                                <li><a href="#">포인트몰</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>나의 메가박스</h3>
+                                            <ul>
+                                                <li><a href="#">나의 메가박스 홈</a></li>
+                                                <li><a href="#">예매/구매내역</a></li>
+                                                <li><a href="#">영화관람권</a></li>
+                                                <li><a href="#">스토어교환권</a></li>
+                                                <li><a href="#">할인/제휴쿠폰</a></li>
+                                                <li><a href="#">멤버십포인트</a></li>
+                                                <li><a href="#">나의 무비스토리</a></li>
+                                                <li><a href="#">나의 이벤트 응모내역</a></li>
+                                                <li><a href="#">나의 문의내역</a></li>
+                                                <li><a href="#">자주쓰는 할인카드</a></li>
+                                                <li><a href="#">회원정보</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>혜택</h3>
+                                            <ul>
+                                                <li><a href="#">멤버십 안내</a></li>
+                                                <li><a href="#">VIP LOUNGE</a></li>
+                                                <li><a href="#">제휴/할인</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>고객센터</h3>
+                                            <ul>
+                                                <li><a href="#">고객센터 홈</a></li>
+                                                <li><a href="#">자주묻는질문</a></li>
+                                                <li><a href="#">공지사항</a></li>
+                                                <li><a href="#">1:1문의</a></li>
+                                                <li><a href="#">단체/대관문의</a></li>
+                                                <li><a href="#">분실물문의</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>회사소개</h3>
+                                            <ul>
+                                                <li><a href="#">메가박스소개</a></li>
+                                                <li><a href="#">사회공헌</a></li>
+                                                <li><a href="#">홍보자료</a></li>
+                                                <li><a href="#">제휴/부대사업문의</a></li>
+                                                <li><a href="#">온라인제보센터</a></li>
+                                                <li><a href="#">IR자료</a></li>
+                                                <li><a href="#">인재채용</a></li>
+                                                <li><a href="#">윤리경영</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <h3>이용정책</h3>
+                                            <ul>
+                                                <li><a href="#">이용약관</a></li>
+                                                <li><a href="#">위치기반서비스 이용약관</a></li>
+                                                <li><a href="#">개인정보처리방침</a></li>
+                                                <li><a href="#">스크린수배정에관한기준</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#" title="영화검색" class="btn-header">검색</a>
+                            <div class="dis-none search">
+                                <div class="container">
+                                    <h2>검색</h2>
+                                    <div class="tab">
+                                        <a href="#" class="active">예매율순</a>
+                                        <a href="#">메가박스 관객순</a>
+                                    </div>
+                                    <div class="search-movie">
+                                        <div class="img-box"><img src="./images/img-poster01.jpg" alt="범죄도시4"></div>
+                                        <ol>
+                                            <li><a href="#">1. 범죄도시4</a></li>
+                                            <li><a href="#">2. 듄</a></li>
+                                            <li><a href="#">3. 레옹</a></li>
+                                            <li><a href="#">4. 쿵푸팬더4</a></li>
+                                            <li><a href="#">5. 듄:파트2</a></li>
+                                        </ol>
+                                        <form action="#">
+                                            <input type="text" name="movie-name" id="movie-name" placeholder="영화를 검색하세요">
+                                            <input type="submit" value="검색">
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>                        
+                    </ul>
+                </div>
+
+                <div class="q-nav q-nav04">
+                    <ul>
+                        <li><a href="javascript:alert('준비중입니다.');" onfocus="this.blur()" title="상영시간표">상영시간표</a></li>
+                        <li>
+                            <a href="#" title="나의 메가박스" class="btn-header">나의 메가박스</a>
+                            <div class="dis-none my-megabox">
+                                <h2>영화를 사랑하는 당신을 위한 꼭 맞는 혜택까지 확인해 보세요!</h2>
+                                <a href="#" class="btn-login">로그인</a><a href="./join.html">아직 회원이 아니신가요?</a>                                
+                            </div>
+                        </li>                        
+                    </ul>
+                </div>
+
+                <nav class="dt-nav">
+                    <ul class="main-nav">
+                        <li>
+                            <a href="./movie.html">영화</a>
+                            <ul class="sub-nav">
+                                <li><a href="./movie.html">전체영화</a></li>
+                                <li><a href="#">무비포스트</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">예매</a>
+                            <ul class="sub-nav">
+                                <li><a href="#">빠른예매</a></li>
+                                <li><a href="#">상영시간표</a></li>
+                                <li><a href="#">더 부티크 프라이빗 예매</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">극장</a>
+                            <ul class="sub-nav">
+                                <li><a href="#">전체극장</a></li>
+                                <li><a href="#">특별관</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="main-nav">
+                        <li>
+                            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">이벤트</a>
+                            <ul class="sub-nav">
+                                <li><a href="#">진행중 이벤트</a></li>
+                                <li><a href="#">지난 이벤트</a></li>
+                                <li><a href="#">당첨자발표</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">스토어</a></li>
+                        <li>
+                            <a href="javascript:alert('준비중입니다.');" onfocus="this.blur()">혜택</a>
+                            <ul class="sub-nav">
+                                <li><a href="#">메가박스 멤버십</a></li>
+                                <li><a href="#">제휴/할인</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+
+                <nav class="m-nav">
+                    <div class="m-nav-head">
+                        <div class="clearfix m-nav-head-top">
+                            <div class="float-left">
+                                <a href="./index.html">로그인 해주세요 :)</a>
+                            </div>
+                            <div class="float-right">
+                                <span id="btn-set">설정</span>
+                                <span id="btn-m-nav-close">닫기</span>
+                            </div>
+                        </div>
+                        <div class="clearfix m-nav-head-bottom">
+                            <div class="float-left">
+                                <a href="#" id="btn-m-login">로그인</a>
+                                <a href="./join.html">회원가입</a>
+                            </div>
+                            <div class="float-right">
+                                <a href="#">비회원 예매확인</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="m-nav-body">
+                        <div class="clearfix">
+                            <div class="float-left">
+                                <h2>QUICK MENU</h2>
+                            </div>
+                            <div class="float-right">
+                                <p id="btn-all">전체메뉴 보기</p>
+                            </div>
+                        </div>
+                        <ul class="m-nav-list01">
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-moive.png" alt="영화별 예매"></div>
+                                    <p>영화별 예매</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-theater.png" alt="극장별 예매"></div>
+                                    <p>극장별 예매</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-special.png" alt="특별관 예매"></div>
+                                    <p>특별관 예매</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-private.png" alt="더 부티크 프라이빗"></div>
+                                    <p>더 부티크<br>프라이빗</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-event.png" alt="이벤트"></div>
+                                    <p>이벤트</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-sale.png" alt="제휴/할인"></div>
+                                    <p>제휴/할인</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-channeltalk.png" alt="상담톡"></div>
+                                    <p>상담톡</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <div class="img-box"><img src="./images/ico-rnb-goods.png" alt="메가굿즈샵"></div>
+                                    <p>메가굿즈샵</p>
+                                </a>
+                            </li>
+                        </ul>
+                        <ul class="m-nav-list02">
+                            <li><a href="./movie.html">전체영화</a></li>
+                            <li><a href="#">나의 메가박스</a></li>
+                            <li><a href="#">스토어</a></li>
+                            <li><a href="#">극장안내</a></li>
+                            <li><a href="#">무비피드</a></li>
+                            <li><a href="#">무비포스트</a></li>
+                            <li><a href="#">스페셜 멤버십</a></li>
+                            <li><a href="./membership.html#membership">멤버십 안내</a></li>
+                            <li><a href="./membership.html#vip">VIP 라운지</a></li>
+                        </ul>
+                        <ul class="m-nav-sns">
+                            <li><a href="#"><img src="./images/ico-facebookN.png" alt="facebook login"></a></li>
+                            <li><a href="#"><img src="./images/ico-instagramN.png" alt="instagram login"></a></li>
+                            <li><a href="#"><img src="./images/ico-youtubeN.png" alt="youtube login"></a></li>
+                        </ul>
+                        <div class="m-nav-ad">
+                            <div class="m-container">
+                                <a href="#"><img src="./images/img-ad03.png" alt="현대해상 바로가기"></a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+
+                <button class="btn-nav">내버버튼</button>
+
+                <div class="logon-form" id="login-form">
+                    <div class="container">
+                        <div class="login-head">
+                            <h2>로그인</h2>
+                            <div class="btn-close" id="btn-login-close">
+                                <span></span><span></span>
+                            </div>
+                        </div>
+                        <div class="login-body">
+                            <form action="#">
+                                <input type="text" name="uid" id="uid" placeholder="아이디">
+                                <input type="password" name="upass" id="upass" placeholder="비밀번호">
+                                <label><input type="checkbox" name="save-id" id="save-id"> 아이디 저장</label>
+                                <input type="submit" value="로그인">
+                                <ul>
+                                    <li><a href="#">ID/PW 찾기</a></li>
+                                    <li><a href="#">회원가입</a></li>
+                                    <li><a href="#">비회원 예매확인</a></li>
+                                </ul>
+                                <ul class="sns-login">
+                                    <li><a href="#"><img src="./images/ico-facebookN.png" alt="페이스북 로그인" title="페이스북 로그인"></a></li>
+                                    <li><a href="#"><img src="./images/ico-twitterN.png"  alt="트위터 로그인" title="트위터 로그인"></a></li>
+                                    <li><a href="#"><img src="./images/ico-instagramN.png" alt="인스타그램 로그인" title="인스타그램 로그인"></a></li>
+                                </ul>
+                            </form>
+                            <div class="ad">
+                                <div class="img-box">
+                                    <a href="#"><img src="./images/img-ad02.png" alt="현대해상 바로가기"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <aside class="aside banner" id="main-popup">
+            <div class="container">
+                <!-- Slider main container -->
+                <div class="swiper popup-swiper">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        <div class="swiper-slide">
+                            <a href="#"><img src="./images/img-popup01.jpg" alt="popup01바로가기"></a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="./images/img-popup02.png" alt="popup02바로가기"></a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="./images/img-popup03.jpg" alt="popup03바로가기"></a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="./images/img-popup04.jpg" alt="popup04바로가기"></a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a href="#"><img src="./images/img-popup05.jpg" alt="popup05바로가기"></a>
+                        </div>                        
+                    </div>                    
+                </div> 
+                <label><input type="checkbox" id="chk-pop"> 하루동안 보지 않기</label> 
+                <button id="btn-popup-close">닫기</button>
+            </div>
+            <!-- 첫화면 팝업 스와이퍼 -->
+            <script>
+                const swiper01 = new Swiper('.popup-swiper',{
+                    effect:'fade',
+                    speed:800,
+                    loop:true, 
+                    autoplay:{
+                        delay:5000,
+                    }          
+                });
+            </script>
+        </aside>
+        
+        <section class="sec sec01 boxoffice">
+            <div class="container">
+                <h2><a href="./movie.html">박스오피스</a></h2>
+                <!-- Slider main container -->
+                <div class="swiper swiper-boxoffice">
+                    <div id="boxoffice-slide-wrapper" class="swiper-wrapper">
+                        <!-- json 불러올 위치 -->
+                    </div>                    
+                </div>
+                <div class="boxoffice-nav">
+                    <ul>
+                        <li>
+                            <form action="#" title="영화 검색">
+                                <input type="text" name="ser-movie" id="ser-movie" placeholder="영화명을 입력해주세요.">
+                                <input type="submit" value="전송">
+                            </form>
+                        </li>
+                        <li>
+                            <a href="#" title="상영시간표">
+                                <div class="img-box"><img src="./images/ico-schedule-light.png" alt="상영시간표"></div>
+                                <span>상영시간표</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="./movie.html" title="박스오피스">
+                                <div class="img-box"><img src="./images/ico-boxoffice.png" alt="박스오피스"></div>
+                                <span>박스오피스</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" title="빠른예매">
+                                <div class="img-box"><img src="./images/ico-quick.png" alt="빠른예매"></div>
+                                <span>빠른예매</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 박스오피스 포스터 스와이퍼 script -->
+            <script>
+                // 섹션1 박스오피스 반응형 스와이퍼
+                // box office swiper 
+                const swiper02 = new Swiper('.swiper-boxoffice',{
+                    // 기본_모바일 우선
+                    slidesPerView:2.6,
+                    spaceBetween:20,
+                    freeMode:true,
+                    breakpoints:{
+                        768:{
+                            slidesPerView:3.2,
+                        },
+                        940:{
+                            slidesPerView:4,
+                            spaceBetween:32,
+                        }              
+                    },
+                });
+
+                // json 불러오기
+                let insertEls = '';
+                let fileNum = '';
+
+                $.ajax({
+                    type:'GET',
+                    url:'./json/boxoffice.json',
+                    dataType:'json',
+
+                    // 성공
+                    success:function(data){
+                        // 예약률 순위 오름차순정렬
+                        data.sort(function(a,b){           
+                            return b.ticketing - a.ticketing;
+                        })
+                        
+                        // 문서 불러오기 반복문
+                        let lastIdx = data.length - 1;
+                        for(let idx=0;idx<=lastIdx;idx++){
+                            if(idx<=8){
+                                fileNum = `0${idx + 1}`;
+                            }else{
+                                fileNum = `${idx + 1}`;
+                            }
+                            insertEls += `<div class="swiper-slide swiper-slide${fileNum}">
+                                                <div class="poster-wrap">
+                                                    <div class="poster-box">
+                                                        <div class="img-box">
+                                                            <img src="./images/img-${data[idx].posterName}.jpg" alt="${data[idx].title}">
+                                                        </div>
+                                                        <div class="movie-num">${idx + 1}</div>
+                                                        <div class="movie-content">
+                                                            <p>${data[idx].conTxt}</p>
+                                                            <span>관람평 : <span>${data[idx].review}</span></span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="hit"><button></button>${data[idx].hit}</div>
+                                                    <a href="#"><div class="ticketing">예매</div></a>
+                                                </div>
+                                            </div>`
+                        };
+                        $('#boxoffice-slide-wrapper').append(insertEls);
+                    },
+
+                    // 실패
+                    error:function(){
+                        alert('시스템점검 중입니다.')
+                       $('body').children().remove();
+                       $('body').css({
+                            background:'url(./images/logo.png) no-repeat center',
+                            height:'100vh',
+                       });
+                    },
+
+                });
+
+
+
+            </script>
+        </section>
+        <section class="sec sec02 benefit">
+            <div class="container">
+                <h2>혜택</h2>
+                <div class="benefit-wrap">
+                    <div class="benefit-ad">
+                        <div class="swiper benefit-swiper01">
+                            <ul class="swiper-wrapper">
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit01.png" alt="benefit01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit02.png" alt="benefit02"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit03.png" alt="benefit03"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit04.png" alt="benefit04"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit05.png" alt="benefit05"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit06.png" alt="benefit06"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit07.png" alt="benefit07"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit08.png" alt="benefit08"></a></div>
+                                </li>
+                            </ul>
+                            <div class="benefit-swiper-controls">
+                                <div class="swiper-scrollbar" id="swiper-scrollbar"></div>
+                                <div id="swiper-button-prev">이전</div>
+                                <div id="swiper-button-next">다음</div>
+                                <div id="btn-start-stop">멈춤</div>
+                                <div class="swiper-pagination" id="swiper-pagination"></div>
+                            </div>
+                        </div>
+                        <div class="swiper benefit-swiper02">
+                            <ul class="swiper-wrapper">
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit01-01.png" alt="benefit01-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit02-01.png" alt="benefit02-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit03-01.png" alt="benefit03-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit04-01.png" alt="benefit04-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit05-01.png" alt="benefit05-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit06-01.png" alt="benefit06-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit07-01.png" alt="benefit07-01"></a></div>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-benefit08-01.png" alt="benefit08-01"></a></div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="img-box img-box01">
+                            <a href="#"><img src="./images/img-kakao.jpg" alt="kakao광고배너"></a>
+                        </div>
+                        <div class="img-box img-box02">
+                            <a href="#"><img src="./images/img-log.jpg" alt="LGU+멤버십광고배너"></a>
+                        </div>
+                    </div>
+
+                    <div class="ad ad02">
+                        <div class="img-box">
+                            <a href="#"><img src="./images/img-ad02.png" alt="현대해상 바로가기"></a>
+                        </div>
+                    </div>
+
+                    <div class="benefit-nav">
+                        <ul>
+                            <li><a href="./membership.html#vip" title="VIP">VIP LOUNGE</a></li>
+                            <li><a href="./membership.html#membership" title="멤버십">멤버십</a></li>
+                            <li><a href="#" title="할인카드 안내">할인카드 안내</a></li>
+                            <li><a href="#" title="이벤트">이벤트</a></li>
+                            <li><a href="#" title="스토어">스토어</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 혜택 스와이퍼 script -->
+            <script>
+                const benefitSwiper01 = new Swiper('.benefit-swiper01',{
+                    allowTouchMove:false,
+                    loop:true,
+                    pagination: {
+                        el: '.swiper-pagination',
+                        type:'fraction',
+                    },  
+                    scrollbar: {
+                        el: '.swiper-scrollbar',
+                    },
+                    autoplay:{
+                        delay:3000,
+                    }
+                });
+
+                const benefitSwiper02 = new Swiper('.benefit-swiper02',{
+                    effect:'fade',
+                    fadeEffect: { 
+                        crossFade: true 
+                    },
+                    allowTouchMove:false,
+                    loop:true,
+                });
+
+                // 혜택스와이퍼 2개를 동기화
+                benefitSwiper01.controller.control = benefitSwiper02;
+                benefitSwiper02.controller.control = benefitSwiper01;
+
+                // 스와이퍼 컨트롤러
+                $('#swiper-button-prev').click(function(){
+                    benefitSwiper01.slidePrev();
+                })
+                $('#swiper-button-next').click(function(){
+                    benefitSwiper01.slideNext();
+                })
+                $('#btn-start-stop').click(function(){
+                    $(this).toggleClass('active');
+                    if($(this).hasClass('active')){
+                        benefitSwiper01.autoplay.stop();
+                    }else{
+                        benefitSwiper01.autoplay.start();
+                    }
+                })
+            </script>
+        </section>
+
+        <section class="sec sec03 curation">
+            <div class="container">
+                <h2>큐레이션</h2>
+                <div class="curation-wrap">
+                    <div class="curation-select">
+                        <div class="curation-poster">
+                            <div class="img-box"><a href="#"><img src="./images/img-cura04.jpg" alt="cura01"></a></div>
+                            <div class="over-tit">MEGABOX<br>CLASSIC<br>SOCIETY</div>
+                        </div>
+                        <button>상세보기</button>
+                        <button>예매</button>
+                    </div>
+                    <div class="curation-contents">
+                        <h3>#클래식소사이어티</h3>
+                        <h4>[2024 시네도슨트 in 코엑스] 팝아트가 보여준 경이로운 클래식 세상</h4>
+                        <hr>
+                        <p>팝 아트를 주도했던 현대 예술가들과 순수 예술을 고집하던 당시의 흐름에 대해 알아보는 시간.<br>예술은 정말 무슨 의미가 있는 것일까?</p>
+                        <p>*예매오픈: 4/8(월)</p>
+                        <p>○ 도슨트 : 미술사학자 안현배</p>
+                        
+                        <div class="swiper curation-swiper">
+                            <ul class="swiper-wrapper">
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-cura01.jpg" alt="바람의 세월"></a></div>
+                                    <p><a href="#">바람의 세월</a></p>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-cura02.jpg" alt="정순"></a></div>
+                                    <p><a href="#">정순</a></p>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-cura03.jpg" alt="은하수"></a></div>
+                                    <p><a href="#">은하수</a></p>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-cura04.jpg" alt="팝아트가 보여준 현대"></a></div>
+                                    <p><a href="#">팝아트가 보여준 현대</a></p>
+                                </li>
+                                <li class="swiper-slide">
+                                    <div class="img-box"><a href="#"><img src="./images/img-cura05.jpg" alt="땅에 쓰는 시"></a></div>
+                                    <p><a href="#">땅에 쓰는 시</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 큐레이션 스와이퍼 -->
+            <script>
+                const curationSwiper = new Swiper('.curation-swiper',{
+                    slidesPerView:3.2,
+                    spaceBetween:10,
+                    freeMode:true,
+                    breakpoints:{
+                        768:{
+                            slidesPerView:3.8,
+                            spaceBetween:20,
+                        }
+                    }
+                });
+            </script>
+        </section>
+
+        <section class="sec sec04 mega-info">
+            <div class="container">
+                <h2>메가박스 안내</h2>
+                <div class="mega-info-wrap">
+                    <div class="mega-info-list">
+                        <ul>
+                            <li><a href="#"><img src="./images/img-info01.png" alt="info01"></a></li>
+                            <li class="new"><a href="#"><img src="./images/img-info02.png" alt="info02"></a></li>
+                            <li><a href="#"><img src="./images/img-info03.png" alt="info03"></a></li>
+                            <li><a href="#"><img src="./images/img-info04.png" alt="info04"></a></li>
+                            <li><a href="#"><img src="./images/img-info05.png" alt="info05"></a></li>
+                            <li><a href="#"><img src="./images/img-info06.png" alt="info06"></a></li>
+                        </ul>
+                    </div>
+                    <div class="mega-info-notice">
+                        <ul>
+                            <li>지점 : <span>[전주객사]</span></li>
+                            <li><a href="#">"제25회 전주 국제 영화제" 개최 안내 (5/1~5/10)</a></li>
+                            <li><span>2024.</span>04.19</li>
+                            <li><a href="#">더보기</a></li>
+                        </ul>
+                    </div>
+                    <div class="mega-info-nav">
+                        <ul>
+                            <li><a href="#" title="고객센터">고객센터</a></li>
+                            <li><a href="#" title="자주 묻는 질문">자주 묻는 질문</a></li>
+                            <li><a href="#" title="1:1 문의">1:1 문의</a></li>
+                            <li><a href="#" title="단체/대관문의">단체/대관문의</a></li>
+                            <li><a href="#" title="분실물 문의/접수">분실물 문의/접수</a></li>
+                            <li><a href="#" title="더 부티크 프라이빗 대관예매">더 부티크 프라이빗 대관예매</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="sec sec05 ad ad03">
+            <div class="container">
+                <div class="img-box">
+                    <a href="#"><img src="./images/img-ad03.png" alt="현대해상 바로가기"></a>
+                </div>
+            </div>
+        </section>
+
+        <section class="sec sec06 bnb">
+            <div class="container">
+                <ul>
+                    <li><a href="#" title="홈" class="active">홈</a></li>
+                    <li><a href="#" title="스토어">스토어</a></li>
+                    <li><a href="#" title="이벤트">예매</a></li>
+                    <li><a href="#" title="예매">이벤트</a></li>
+                    <li><a href="#" title="MY">MY</a></li>
+                </ul>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="footer-wrap">
+                    <ul class="footer-nav">
+                        <li><a href="#">회사소개</a></li>
+                        <li><a href="#">인재채용</a></li>
+                        <li><a href="#">사회공헌</a></li>
+                        <li><a href="#">제휴/광고/부대사업문의</a></li>
+                        <li><a href="#">이용약관</a></li>
+                        <li><a href="#">위치기반서비스 이용약관</a></li>
+                        <li><a href="#"><strong>개인정보처리방침</strong></a></li>
+                        <li><a href="#">윤리경영</a></li>
+                    </ul>
+                    <div class="cinema-search">극장찾기</div>
+                    <div class="footer-logo">푸터로고</div>
+                    <address>
+                        서울특별시 성동구 왕십리로 50, 6층 (성수동1가, 메가박스 스퀘어) ARS 1544-0070 대표이메일 m.dreamcenter@partner.megabox.co.kr<br>
+                        대표자명 홍정인 · 개인정보보호책임자 강병철 · 사업자등록번호 211-86-59478 · 통신판매업신고번호 2023-서울성동-0177<br>
+                        COPYRIGHT © MegaboxJoongAng, Inc. All rights reserved
+                    </address>
+                    <ul class="sns-link">
+                        <li><a href="#"><img src="./images/ico-facebookN.png" alt="facebook"></a></li>
+                        <li><a href="#"><img src="./images/ico-instagramN.png" alt="instagram"></a></li>
+                        <li><a href="#"><img src="./images/ico-youtubeN.png" alt="youtube"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+
+    </section>
+</body>
+</html>

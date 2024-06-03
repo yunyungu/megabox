@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/reset.css">
+    <title>회원가입</title>
+    <style>
+        .wrap{
+            background:#f9f9f9;
+        }
+        .container{
+            max-width:640px;
+            margin:0 auto;
+            padding:70px;
+            background:#fff;
+            display:grid;
+            grid-template-columns:repeat(4,1fr);
+            gap:20px;
+        }
+        .full-area{
+            grid-column:1/-1;
+        }
+
+        .logo{
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .step{
+            font-size:0.8em;
+            text-align:center;
+            word-break:keep-all;
+        }
+        .step.active{
+            color:#730fa6;
+        }
+        .line{
+            position:relative;
+            height:2px;
+            background:#ccc;
+        }
+        .line::after{
+            content:'';
+            display:block;
+            position:absolute;
+            left:0;
+            top:0;
+            bottom:0;
+            width:25%;
+            background:#730fa6;
+        }
+        .l-tit{
+            font-weight:600;
+            font-size:1.4em;
+            transform: translateY(20px);
+        }
+        .img-kakao,.img-phone,.img-ipin{
+            padding:30px;
+            border:1px solid #ccc;
+            border-radius:12px;
+        }
+        .img-kakao a,.img-phone a,.img-ipin a{
+            position:relative;
+            display:block;
+            width:100%;
+            height:120px;
+            padding-bottom:20px;            
+            background:url(./images/ico-kakaobank.png) no-repeat center;
+            background-clip:content-box;
+            background-size:100px;            
+        }
+        .img-phone{
+            grid-column:1/3;
+        }
+        .img-ipin{
+            grid-column:3/-1;
+        }
+        .img-phone a{
+            background-image:url(./images/ico-phone.png);
+            background-position-y:top;
+            background-size:90px;
+        }
+        .img-ipin a{
+            background-image:url(./images/ico-ipin.png);
+            background-position-y:top;
+            background-size:90px;
+        }
+        .center-txt{
+            position:absolute;
+            left:0;
+            right:0;
+            bottom:0;
+            text-align:center;
+        }
+        ul li{
+            position:relative;
+            padding-left:10px;
+            font-size:0.8em;
+        }
+        ul li::before{
+            content:'';
+            display:block;
+            position:absolute;
+            left:0;
+            top:7px;
+            width:4px;
+            height:4px;
+            border-radius:50%;
+            background:#ccc;
+        }
+
+        @media (max-width:640px){
+            .container{
+                padding-left:40px;
+                padding-right:40px;
+            }
+        }
+
+        @media (max-width:470px){
+            .container{
+                padding:32px 16px
+            }
+            .l-tit{
+                font-size:1em;
+            }
+            .l-tit + p{
+                font-size:0.9em;
+                opacity:0.8;
+            }
+            .img-phone,.img-ipin{
+                grid-column:1/-1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <section class="wrap">
+        <div class="container">
+            <div class="img-box logo full-area"><a href="./index.html"><img src="./images/logo.png" alt="logo"></a></div>
+            <p class="step step01 active">STEP1. 본인인증</p>
+            <p class="step step02">STEP2. 약관동의</p>
+            <p class="step step03">STEP3. 정보입력</p>
+            <p class="step step04">STEP4. 가입완료</p>
+            <div class="line full-area"></div>
+            <p class="full-area l-tit">회원가입을 위한 본인인증 단계입니다.</p>
+            <p class="full-area">원하시는 인증방법을 선택해주세요.</p>
+            <div class="img-box full-area img-kakao"><a href="#"><span class="center-txt">카카오뱅크 인증</span></a></div>
+            <div class="img-box img-phone"><a href="#"><span class="center-txt">휴대폰 인증</span></a></div>
+            <div class="img-box img-ipin"><a href="#"><span class="center-txt">아이핀 인증</span></a></div>
+            <ul class="full-area">
+                <li>14세 미만 어린이는 보호자 인증을 추가로 완료한 후 가입이 가능합니다.</li>
+                <li>본인인증 시 제공되는 정보는 해당 인증기관에서 직접 수집하며, 인증 이외의 용도로 이용 또는 저장되지 않습니다.</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>

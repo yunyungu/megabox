@@ -1,0 +1,1783 @@
+<article id="art-movie" class="art art-movie">
+    <ul>
+        <li class="moive01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie01.jpg" alt="설계자"></div>
+                    <div class="movie-num">1</div>
+                    <div class="movie-content">
+                        <p>
+                            “정말 우연이라고 생각해요?”<br>의뢰받은 청부 살인을 사고사로 조작하는 설계자 ‘영일’(강동원) 그의 설계를 통해 우연한 사고로 조작된 죽음들이 실은 철저하게 계획된 살인이라는 것을 아무도 알지 못한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>설계자</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 27.4%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>924</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>설계자</h3>
+                    </div>
+                    <div>
+                        <p><span>설계자</span>27.4%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie02.jpg" alt="퓨리오사: 매드맥스 사가"></div>
+                    <div class="movie-num">2</div>
+                    <div class="movie-content">
+                        <p>
+                            문명 붕괴 45년 후, 황폐해진 세상 속 누구에게도 알려지지 않은 풍요가 가득한 ‘녹색의 땅’에서 자란 ‘퓨리오사’(안야 테일러-조이)는 바이커 군단의 폭군 ‘디멘투스’(크리스 헴스워스)의 손에 모든 것을 잃고 만다. 
+                        </p>
+                        <span>관람평 : <span>9.2</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>퓨리오사: 매드맥스 사가</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 18.5%</span><span class="info-txt02">개봉일 2024.05.22</span></p>
+                    <div class="hit"><button></button>1.3k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>퓨리오사: 매드맥스 사가</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>18.5%</p>
+                        <p><span>개봉일</span>2024.05.22</p>
+                        <p><span>실관람평</span>9.2</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie03.jpg" alt="원더랜드"></div>
+                    <div class="movie-num">3</div>
+                    <div class="movie-content">
+                        <p>
+                            언제 어디서든 다시 만날 수 있습니다<br>죽은 사람을 인공지능으로 복원하는 ‘원더랜드’ 서비스가 일상이 된 세상, 어린 딸에게 자신의 죽음을 숨기기 위해 ‘원더랜드’ 서비스를 의뢰한 ‘바이리’와 사고로 누워있는 남자친구
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>원더랜드</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 10.6%</span><span class="info-txt02">개봉일 2024.06.05</span></p>
+                    <div class="hit"><button></button>588</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>원더랜드</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>10.6%</p>
+                        <p><span>개봉일</span>2024.06.05</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive04">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie04.jpg" alt="드림 시나리오"></div>
+                    <div class="movie-num">4</div>
+                    <div class="movie-content">
+                        <p>
+                            소심하고, 한심하고, 평범 그 자체여서<br>언제 어디서나 존재감 없는 ‘폴’로 인해 온 세상이 떠들썩해진다! 왜? 그가 지구상 모두의 꿈에 나타나고 있기 때문에!
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>드림 시나리오</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 10.2%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>330</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>드림 시나리오</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>10.2%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive05">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie05.jpg" alt="극장판 하이큐!! 쓰레기장의 결전"></div>
+                    <div class="movie-num">5</div>
+                    <div class="movie-content">
+                        <p>
+                            봄철 고교 배구대회 1회전과 2회전에서 우승 후보를 차례로 꺾은 카라스노 고등학교는 마침내 3회전에서 인연의 라이벌 네코마 고등학교와 맞붙게 된다.
+                        </p>
+                        <span>관람평 : <span>9.0</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>극장판 하이큐!! 쓰레기장의 결전</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 7.2%</span><span class="info-txt02">개봉일 2024.05.15</span></p>
+                    <div class="hit"><button></button>2.9k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>극장판 하이큐!! 쓰레기장의 결전</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>7.2%</p>
+                        <p><span>개봉일</span>2024.05.15</p>
+                        <p><span>실관람평</span>9.0</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive06">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie06.jpg" alt="[디즈니시네마] 코코"></div>
+                    <div class="movie-num">6</div>
+                    <div class="movie-content">
+                        <p>
+                            영원히 기억하고 싶은 황홀한 모험이 시작된다!<br>뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토의 기타에 손을 댔다 ‘죽은 자들의 세상’에 들어가게 된다.그리고 그곳에서 만난 의문의 사나이 헥터와 함께 상상조차 못했던 모험을 시작하게 되는데…
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 코코</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 5.2%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>167</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 코코</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>5.2%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive07">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie07.jpg" alt="범죄도시4"></div>
+                    <div class="movie-num">7</div>
+                    <div class="movie-content">
+                        <p>
+                            신종 마약 사건 3년 뒤,<br>괴물형사 ‘마석도’(마동석)와 서울 광수대는 배달앱을 이용한 마약 판매 사건을 수사하던 중 수배 중인 앱 개발자가 필리핀에서 사망한 사건이
+                        </p>
+                        <span>관람평 : <span>8.8</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>범죄도시4</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 4.2%</span><span class="info-txt02">개봉일 2024.04.24</span></p>
+                    <div class="hit"><button></button>2.5k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>범죄도시4</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>4.2%</p>
+                        <p><span>개봉일</span>2024.04.24</p>
+                        <p><span>실관람평</span>8.8</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive08">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie08.jpg" alt="청춘 18X2 너에게로 이어지는 길"></div>
+                    <div class="movie-num">8</div>
+                    <div class="movie-content">
+                        <p>
+                            “만일 그때 너에게 내 마음을 전했다면 지금의 난 달라졌을까?”<br>18년 전의 대만 타이난. 노래방에서 아르바이트를 하는 고등학생 ‘지미(허광한)’는, 배낭여행 중 잠시 일자리를 찾아 온 일본인 ‘아미(키요하라 카야)’를 만난다.
+                        </p>
+                        <span>관람평 : <span>8.1</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>청춘 18X2 너에게로 이어지는 길</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 3.6%</span><span class="info-txt02">개봉일 2024.05.22</span></p>
+                    <div class="hit"><button></button>921</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>청춘 18X2 너에게로 이어지는 길</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>3.6%</p>
+                        <p><span>개봉일</span>2024.05.22</p>
+                        <p><span>실관람평</span>8.1</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive09 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie09.jpg" alt="그녀가 죽었다"></div>
+                    <div class="movie-num">9</div>
+                    <div class="movie-content">
+                        <p>
+                            “나쁜 짓은 절대 안 해요. 그냥 보기만 하는 거예요.”<br>고객이 맡긴 열쇠로 그 집에 들어가 남의 삶을 훔쳐보는 취미를 지닌 공인중개사 ‘구정태’. 편의점 소시지를 먹으며 비건 샐러드 사진을 포스팅하는 SNS 인플루언서
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>그녀가 죽었다</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 3.5%</span><span class="info-txt02">개봉일 2024.05.15</span></p>
+                    <div class="hit"><button></button>633</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>그녀가 죽었다</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>3.5%</p>
+                        <p><span>개봉일</span>2024.05.15</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive10 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie10.jpg" alt="극장판 아이돌리쉬 세븐; LIVE 4bit BEYOND THE PERiOD - DAY 2"></div>
+                    <div class="movie-num"><button></button>10</div>
+                    <div class="movie-content">
+                        <p>
+                            새로운 시작을 너와, 이 스테이지에서!<br>'블랙 오어 화이트 라이브 쇼다운' 무대에서 경쟁한 남성 아이돌계 탑러너들의 꿈의 라이브!
+                        </p>
+                        <span>관람평 : <span>9.8</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>극장판 아이돌리쉬 세븐; LIVE 4bit BEYOND THE PERiOD - DAY 2</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 1%</span><span class="info-txt02">개봉일 2023.10.19</span></p>
+                    <div class="hit"><button></button>1k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>극장판 아이돌리쉬 세븐; LIVE 4bit BEYOND THE PERiOD - DAY 2</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>1%</p>
+                        <p><span>개봉일</span>2023.10.19</p>
+                        <p><span>실관람평</span>9.8</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive11 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie11.jpg" alt="혹성탈출: 새로운 시대"></div>
+                    <div class="movie-num">11</div>
+                    <div class="movie-content">
+                        <p>
+                            인류의 시대는 끝났고, 세상의 주인이 바뀌었다!<br>진화한 유인원과 퇴화된 인간들이 살아가는 땅. 유인원 리더 '프록시무스'는 완전한 군림을 위해 인간들을 사냥하며 자신의 제국을 건설한다.
+                        </p>
+                        <span>관람평 : <span>8.3</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>혹성탈출: 새로운 시대</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.9%</span><span class="info-txt02">개봉일 2024.05.08</span></p>
+                    <div class="hit"><button></button>673</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>혹성탈출: 새로운 시대</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.9%</p>
+                        <p><span>개봉일</span>2024.05.08</p>
+                        <p><span>실관람평</span>8.3</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive12 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie12.jpg" alt="[디즈니시네마] 업"></div>
+                    <div class="movie-num">12</div>
+                    <div class="movie-content">
+                        <p>
+                            평생 모험을 꿈꿔 왔던 ‘칼’ 할아버지는 수천 개의 풍선을 매달아 집을 통째로 남아메리카로 날려 버리는데, ‘칼’ 할아버지의 이 위대한 모험에 초대 받지 않은 불청객이 있었으니, 바로 황야의 탐험가 ‘러셀’! 지구상에 둘도 없을 이 어색한 커플이 함께 하는 대모험. 그들은 과연 남미의 잃어버린 세계에서 사라져 버린 꿈과 희망, 행복을 다시 찾을 수 있을까?
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 업</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>67</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 업</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive13 more02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie13.jpg" alt="2024 빈 필하모닉 여름음악회"></div>
+                    <div class="movie-num">13</div>
+                    <div class="movie-content">
+                        <p>
+                            [라이브 안내사항]<br>공연 러닝타임, 프로그램 및 출연진은 현지 사정에 의해 사전고지 없이 변경될 수 있습니다. 본 상영은 별도 자막 제공이 없으며, 음향과 화질이 고르지 못할 수 있습니다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>2024 빈 필하모닉 여름음악회</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.8%</span><span class="info-txt02">개봉일 2024.06.08</span></p>
+                    <div class="hit"><button></button>60</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>2024 빈 필하모닉 여름음악회</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.8%</p>
+                        <p><span>개봉일</span>2024.06.08</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive14 more02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie14.jpg" alt="쇼생크 탈출"></div>
+                    <div class="movie-num">14</div>
+                    <div class="movie-content">
+                        <p>
+                            아내와 그 불륜상대를 살해했다는 누명을 쓰고 두 번의 종신형을 선고받은 엘리트 은행가 ‘앤디’는 악명 높은 교도소 ‘쇼생크’에 수감된다. 남은 평생을 살아야 할 그곳에는 끔찍한 폭력과 무기력한 시간만이 존재한다.
+                        </p>
+                        <span>관람평 : <span>9.7</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>쇼생크 탈출</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.7%</span><span class="info-txt02">개봉일 2024.05.08</span></p>
+                    <div class="hit"><button></button>1.8k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>쇼생크 탈출</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.7%</p>
+                        <p><span>개봉일</span>2024.05.08</p>
+                        <p><span>실관람평</span>9.7</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive15 more02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie15.jpg" alt="[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤"></div>
+                    <div class="movie-num">15</div>
+                    <div class="movie-content">
+                        <p>
+                            미술사의 위대한 라이벌들 : 반 고흐 VS 에드바르트 뭉크 : 그들의 별이 빛나는 밤<br>고흐는 죽음 이후 다수의 전시회에서 함께 전시되고 소개되는 일이 많았습니다. 자연스럽게 뭉크는 고흐의 예술에 공감을 하고 영향을 받습니다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.5%</span><span class="info-txt02">개봉일 2024.06.03</span></p>
+                    <div class="hit"><button></button>49</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.5%</p>
+                        <p><span>개봉일</span>2024.06.03</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive16 more02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie16.jpg" alt="[디즈니시네마] 월ㆍE"></div>
+                    <div class="movie-num">16</div>
+                    <div class="movie-content">
+                        <p>
+                            지구 최후의 로봇 ‘월ㆍE’와 함께 떠나는 흥미진진! 무한상상! 로맨틱 어드벤처 블록버스터로 아카데미 상을 수상한 감독 겸 각본가 앤드류 스탠튼과, , , 를 탄생시킨 픽사 애니메이션 스튜디오의 재기 넘치는 이야기꾼, 천재적인 기술진들이 다시 한 번 손을 잡았다!
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 월ㆍE</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.4%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>83</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 월ㆍE</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.4%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive17 more03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie17.jpg" alt="[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다"></div>
+                    <div class="movie-num">17</div>
+                    <div class="movie-content">
+                        <p>
+                            [강연소개]<br>표현주의에서 추상주의까지 현대미술은 어떻게 바뀌게 되었을까요? 그리고 현대미술의 흐름에 따르는 박신양 작가의 작품을 함께 들여다 볼까요?
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.4%</span><span class="info-txt02">개봉일 2024.05.31</span></p>
+                    <div class="hit"><button></button>22</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다</h3>
+                        <p><span>예매율</span>0.4%</p>
+                        <p><span>개봉일</span>2024.05.31</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive18 more03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie18.jpg" alt="챌린저스"></div>
+                    <div class="movie-num">18</div>
+                    <div class="movie-content">
+                        <p>
+                            테니스 코트 밖, 진짜 경쟁이 시작된다!<br>스타급의 인기를 누리던 테니스 천재 ‘타시’(젠데이아)는 부상으로 인해 더 이상 선수 생활을 하지 못하고 지금은 남편 ‘아트’(마이크 파이스트)의 코치를 맡고 있다
+                        </p>
+                        <span>관람평 : <span>8.6</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>챌린저스</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.04.24</span></p>
+                    <div class="hit"><button></button>446</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>챌린저스</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.04.24</p>
+                        <p><span>실관람평</span>8.6</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive19 more03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie19.jpg" alt="[로열 발레] 백조의 호수"></div>
+                    <div class="movie-num">19</div>
+                    <div class="movie-content">
+                        <p>
+                            SYNOPSIS<br>사냥을 나간 지크프리트 왕자는 우연히 백조 무리를 발견한다. 그중 한 마리가 아름다운 인간 오데뜨로 변신하고 이를 본 왕자는 매혹된다. 그러나 오데뜨는 마법에 걸려 낮 동안은 백조의 모습으로 갇혀 지내야 한다. 지크프리트 왕자는 그녀를 마법에서 구할 수 있을까?
+                        </p>
+                        <span>관람평 : <span>9.5</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[로열 발레] 백조의 호수</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.05.21</span></p>
+                    <div class="hit"><button></button>75</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[로열 발레] 백조의 호수</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.05.21</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="moive20 more03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-movie20.jpg" alt="창가의 토토"></div>
+                    <div class="movie-num">20</div>
+                    <div class="movie-content">
+                        <p>
+                            남들과 조금 다르다는 이유로 다니던 초등학교에서 쫓겨나게 된 ‘토토’는 엄격한 규율로 가르치는 이전 학교와 달리, 있는 그대로의 ‘토토’를 품어주는 새로운 학교로 가게 된다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>창가의 토토</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>229</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>창가의 토토</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+    </ul>
+    <button class="btn-more">더보기</button>
+</article>
+<article id="art-com" class="art art-com">
+    <ul>
+        <li class="com01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com01.jpg" alt="설계자"></div>
+                    <div class="movie-content">
+                        <p>
+                            “정말 우연이라고 생각해요?”<br>의뢰받은 청부 살인을 사고사로 조작하는 설계자 ‘영일’(강동원) 그의 설계를 통해 우연한 사고로 조작된 죽음들이 실은 철저하게 계획된 살인이라는 것을 아무도 알지 못한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>설계자</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 27.3%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>60</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                        <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>설계자</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>27.3%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com02.jpg" alt="드림 시나리오"></div>
+                    <div class="movie-content">
+                        <p>
+                            소심하고, 한심하고, 평범 그 자체여서<br>언제 어디서나 존재감 없는 ‘폴’로 인해 온 세상이 떠들썩해진다! 왜? 그가 지구상 모두의 꿈에 나타나고 있기 때문에!
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>드림 시나리오</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 10.2%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>330</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>드림 시나리오</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>10.2%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com03.jpg" alt="창가의 토토"></div>
+                    <div class="movie-content">
+                        <p>
+                            남들과 조금 다르다는 이유로 다니던 초등학교에서 쫓겨나게 된 ‘토토’는 엄격한 규율로 가르치는 이전 학교와 달리, 있는 그대로의 ‘토토’를 품어주는 새로운 학교로 가게 된다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>창가의 토토</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>229</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>창가의 토토</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com04">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com04.jpg" alt="정욕"></div>
+                    <div class="movie-content">
+                        <p>
+                            사회적인 연결의 중요성을 믿는 검사 ‘히로키’는 유튜버가 되기 위해 등교를 거부하는 아들로 골머리를 앓는다. 타인과의 연결을 거부하던 ‘나쓰키’는 동창생 ‘요시미치’의 귀향 소식을 듣고 학창 시절 기억을 떠올리며 마음이 흔들리기 시작한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>정욕</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>117</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>정욕</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com05">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com05.jpg" alt="난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야"></div>
+                    <div class="movie-content">
+                        <p>
+                            인간을 죽이고 싶지 않은 마음 약한 뱀파이어 소녀 ‘사샤’ 사는 게 별로 재미없는 외톨이 소년 ‘폴’ 좋은 일엔 기꺼이 죽을 수 있는 ‘폴’은 흔쾌히 ‘사샤’의 일용할 양식(?)이 되기로 한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>162</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com06">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com06.jpg" alt="라파엘로. 예술의 군주"></div>
+                    <div class="movie-content">
+                        <p>
+                            라파엘로 서거 500주년을 기념하여 제작. 미켈란젤로와 레오나르도 다 빈치와 함께 르네 상스를 대표하는 3인의 거장으로 꼽히는 “신동(神童)” 라파엘로 산치오(1483~1520)에 대한 최초의 영화.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>라파엘로. 예술의 군주</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>40</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>라파엘로. 예술의 군주</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com07">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com07.jpg" alt="분노의 강"></div>
+                    <div class="movie-content">
+                        <p>
+                            “ 행복하게 살자, 우리” 모두가 모르는 반쪽의 진실 아버지 ‘기철’은 소중한 가족과 철책의 반대편, 내일이 있는 삶을 꿈꾸며 목숨 건 모험에 뛰어든다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>분노의 강</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>107</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>분노의 강</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com08">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com08.jpg" alt="찬란한 내일로"></div>
+                    <div class="movie-content">
+                        <p>
+                            명망 있는 영화감독 ‘조반니’는 5년 만에 새 영화 촬영에 들어간다. 그러나 명작 탄생을 기대하던 제작자는 파산 직전에, 40년을 함께한 아내마저 날벼락 같은 이혼 선언으로 그를 혼란에 빠트린다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>찬란한 내일로</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>79</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>찬란한 내일로</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com09 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com09.jpg" alt="아침이 오면 공허해진다"></div>
+                    <div class="movie-content">
+                        <p>
+                            사소하고 우연한 찰나들이 모인다. 공허한 일상이 채워지기 시작한다. 말수 적고 낯가리는 내향형 인간 ‘이이즈카’(카라타 에리카). 취업 후 적응하지 못해 회사를 그만두고 편의점 아르바이트로 하루하루 지내고 있지만 가족들은 그런 그녀의 상황을 모른다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>아침이 오면 공허해진다</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>168</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>아침이 오면 공허해진다</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com10 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com08.jpg" alt="[디즈니시네마] 코코"></div>
+                    <div class="movie-content">
+                        <p>
+                            원히 기억하고 싶은 황홀한 모험이 시작된다! 뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토의 기타에 손을 댔다 ‘죽은 자들의 세상’에 들어가게 된다. 그리고 그곳에서 만난 의문의 사나이 헥터와 함께 상상조차 못했던 모험을 시작하게 되는데…
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 코코</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 5%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>199</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 코코</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>5%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com11 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com11.jpg" alt="[디즈니시네마] 월ㆍE"></div>
+                    <div class="movie-content">
+                        <p>
+                            지구 최후의 로봇 ‘월ㆍE’와 함께 떠나는 흥미진진! 무한상상! 로맨틱 어드벤처 블록버스터 로 아카데미 상을 수상한 감독 겸 각본가 앤드류 스탠튼과, , , 를 탄생시킨 픽사 애니메이션 스튜디오의 재기 넘치는 이야기꾼, 천재적인 기술진들이 다시 한 번 손을 잡았다!
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 월ㆍE</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.5%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>102</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 월ㆍE</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.5%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com12 more01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com12.jpg" alt="[디즈니시네마] 업"></div>
+                    <div class="movie-content">
+                        <p>
+                            평생 모험을 꿈꿔 왔던 ‘칼’ 할아버지는 수천 개의 풍선을 매달아 집을 통째로 남아메리카로 날려 버리는데, ‘칼’ 할아버지의 이 위대한 모험에 초대 받지 않은 불청객이 있었으니, 바로 황야의 탐험가 ‘러셀’! 지구상에 둘도 없을 이 어색한 커플이 함께 하는 대모험. 그들은 과연 남미의 잃어버린 세계에서 사라져 버린 꿈과 희망, 행복을 다시 찾을 수 있을까?
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 업</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.4%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>80</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 업</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.4%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="com13 more02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-com13.jpg" alt="[디즈니시네마] 소울"></div>
+                    <div class="movie-content">
+                        <p>
+                            나는 어떻게 ‘나’로 태어나게 되었을까? 지구에 오기 전 영혼들이 머무는 ‘태어나기 전 세상’이 있다면? 뉴욕에서 음악 선생님으로 일하던 ‘조’는 꿈에 그리던 최고의 밴드와 재즈 클럽에서 연주하게 된 그 날, 예기치 못한 사고로 영혼이 되어 ‘태어나기 전 세상’에 떨어진다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[디즈니시네마] 소울</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.05.30</span></p>
+                    <div class="hit"><button></button>84</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체이용가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[디즈니시네마] 소울</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.05.30</p>
+                        <img src="./images/ico-ageall.png" alt="전체이용가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+    </ul>
+    <button class="btn-more">더보기</button>
+</article>
+<article id="art-special" class="art art-special">
+    <ul>
+        <li class="special01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-special01.jpg" alt="쇼생크 탈출"></div>
+                    <div class="movie-num">1</div>
+                    <div class="movie-content">
+                        <p>
+                            아내와 그 불륜상대를 살해했다는 누명을 쓰고 두 번의 종신형을 선고받은 엘리트 은행가 ‘앤디’는 악명 높은 교도소 ‘쇼생크’에 수감된다. 남은 평생을 살아야 할 그곳에는 끔찍한 폭력과 무기력한 시간만이 존재한다.
+                        </p>
+                        <span>관람평 : <span>9.7</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>쇼생크 탈출</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 1.3%</span><span class="info-txt02">개봉일 2024.05.08</span></p>
+                    <div class="hit"><button></button>1.8k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>쇼생크 탈출</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>1.3%</p>
+                        <p><span>개봉일</span>2024.05.08</p>
+                        <p><span>실관람평</span>9.7</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="special02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-special02.jpg" alt="극장판 아이돌리쉬 세븐; LIVE 4bit BEYOND THE PERiOD - DAY 2"></div>
+                    <div class="movie-num">2</div>
+                    <div class="movie-content">
+                        <p>
+                            새로운 시작을 너와, 이 스테이지에서!<br>'블랙 오어 화이트 라이브 쇼다운' 무대에서 경쟁한 남성 아이돌계 탑러너들의 꿈의 라이브!
+                        </p>
+                        <span>관람평 : <span>9.8</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>극장판 아이돌리쉬 세븐; LIVE 4bit BEYOND THE PERiOD - DAY 2</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.9%</span><span class="info-txt02">개봉일 2023.10.19</span></p>
+                    <div class="hit"><button></button>1k</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>극장판 아이돌리쉬 세븐; LIVE 4bit BEYOND THE PERiOD - DAY 2</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.9%</p>
+                        <p><span>개봉일</span>2023.10.19</p>
+                        <p><span>실관람평</span>9.8</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="special03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-special03.jpg" alt="극장판 울려라! 유포니엄: 앙상블 콘테스트"></div>
+                    <div class="movie-num">3</div>
+                    <div class="movie-content">
+                        <p>
+                            “다음 이야기를 향해서 너의 소리를 울려 줘”<br>키타우지 고등학교 관악부의 새로운 부장이 된 ‘쿠미코’. 아직 모든 것이 어색한 가운데 전국 앙상블 콘테스트 대표팀 오디션을 맡게 된다.
+                        </p>
+                        <span>관람평 : <span>8.8</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>극장판 울려라! 유포니엄: 앙상블 콘테스트</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.04.17</span></p>
+                    <div class="hit"><button></button>611</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>극장판 울려라! 유포니엄: 앙상블 콘테스트</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.04.17</p>
+                        <p><span>실관람평</span>8.8</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="special04">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-special04.jpg" alt="금지된 장난"></div>
+                    <div class="movie-num">4</div>
+                    <div class="movie-content">
+                        <p>
+                            평범한 회사원 ‘나오토’는 아내 ‘미유키’, 아들 ‘하루토’와 행복하고 단란한 생활을 보내며 이보다 더 완벽할 수 없다고 생각한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>금지된 장난</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.06.05</span></p>
+                    <div class="hit"><button></button>262</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>금지된 장난</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.06.05</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="special05">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-special05.jpg" alt="기괴도"></div>
+                    <div class="movie-num">5</div>
+                    <div class="movie-content">
+                        <p>
+                            아직도 영매사의 입지가 강력한 외딴 섬. 그곳에서 천재 뇌 과학자 ‘토모히코’는 팀원들과 현실 세계와 똑같은 가상공간을 구성하는 VR 연구, 일명 ‘신세계’ 프로젝트를 진행 중이다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>기괴도</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.06.12</span></p>
+                    <div class="hit"><button></button>235</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>기괴도</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.06.12</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="special06">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-special06.jpg" alt="몽키맨"></div>
+                    <div class="movie-num">6</div>
+                    <div class="movie-content">
+                        <p>
+                            작은 불씨 하나가 모든 것을 불태운다!<br>잔혹한 과거의 잔상에서 벗어나지 못하고 괴로워하는 ‘키드’(데브 파텔) 자신의 가족을 몰살한 경찰청장 ‘라나 싱’(시칸다르 케르)에 복수하기 위해 바친 복수를 계획하지만 순간의 실수로 물거품이 된다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>몽키맨</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.06.19</span></p>
+                    <div class="hit"><button></button>26</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age19.png" alt="19세이상 관람가">
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>몽키맨</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.06.19</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age19.png" alt="19세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</article>
+<article id="art-film" class="art art-film">
+    <ul>
+        <li class="film01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film01.jpg" alt="차이콥스키의 아내"></div>
+                    <div class="movie-content">
+                        <p>
+                            “신이 주신 영원한 남편이에요 차이콥스키의 아내, 그게 내 운명이에요” 19세기 러시아 모스크바 귀족 가문 출신의 안토니나. 러시아 최고의 작곡가 차이콥스키, 그를 처음 봤던 날부터 원하는 건 단 하나.
+                        </p>
+                        <span>관람평 : <span>7.8</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>차이콥스키의 아내</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.01</span></p>
+                    <div class="hit"><button></button>187</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age19.png" alt="19세이상 관람가">
+                </div>
+            </div>
+        </li>
+        <li class="film02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film02.jpg" alt="목화솜 피는 날"></div>
+                    <div class="movie-content">
+                        <p>
+                            "멈춰있는 세월을 넘어 다시 피어나자, 우리"<br>10년 전 참혹한 사고로 '경은'을 잃고 기억을 점차 잃어가는 '병호'. 무기력함에 갇혀있던 아내 '수현'은 고통을 견디느라 이를 외면한다.
+                        </p>
+                        <span>관람평 : <span>9.2</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>목화솜 피는 날</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.22</span></p>
+                    <div class="hit"><button></button>69</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                </div>
+                </div>
+            </div>
+        </li>
+        <li class="film03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film03.jpg" alt="정욕"></div>
+                    <div class="movie-content">
+                        <p>
+                            사회적인 연결의 중요성을 믿는 검사 ‘히로키’는 유튜버가 되기 위해 등교를 거부하는 아들로 골머리를 앓는다. 타인과의 연결을 거부하던 ‘나쓰키’는 동창생 ‘요시미치’의 귀향 소식을 듣고 학창 시절 기억을 떠올리며 마음이 흔들리기 시작한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>정욕</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>116</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+            </div>
+        </li>
+        <li class="film04">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film04.jpg" alt="난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야"></div>
+                    <div class="movie-content">
+                        <p>
+                            인간을 죽이고 싶지 않은 마음 약한 뱀파이어 소녀 ‘사샤’ 사는 게 별로 재미없는 외톨이 소년 ‘폴’ 좋은 일엔 기꺼이 죽을 수 있는 ‘폴’은 흔쾌히 ‘사샤’의 일용할 양식(?)이 되기로 한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>163</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                </div>
+            </div>
+        </li>
+        <li class="film05">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film05.jpg" alt="라파엘로. 예술의 군주"></div>
+                    <div class="movie-content">
+                        <p>
+                            라파엘로 서거 500주년을 기념하여 제작. 미켈란젤로와 레오나르도 다 빈치와 함께 르네 상스를 대표하는 3인의 거장으로 꼽히는 “신동(神童)” 라파엘로 산치오(1483~1520)에 대한 최초의 영화.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>라파엘로. 예술의 군주</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.1%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>40</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+            </div>
+        </li>
+        <li class="film06">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film06.jpg" alt="찬란한 내일로"></div>
+                    <div class="movie-content">
+                        <p>
+                            명망 있는 영화감독 ‘조반니’는 5년 만에 새 영화 촬영에 들어간다. 그러나 명작 탄생을 기대하던 제작자는 파산 직전에, 40년을 함께한 아내마저 날벼락 같은 이혼 선언으로 그를 혼란에 빠트린다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>찬란한 내일로</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.05.29</span></p>
+                    <div class="hit"><button></button>78</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                </div>
+            </div>
+        </li>
+        <li class="film07">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film07.jpg" alt="로봇 드림"></div>
+                    <div class="movie-content">
+                        <p>
+                            뉴욕 맨해튼에서 홀로 외롭게 살던 ‘도그’는 TV를 보다 홀린 듯 반려 로봇을 주문하고 그와 둘도 없는 단짝이 되어 행복한 나날을 보낸다
+                        </p>
+                        <span>관람평 : <span>9.3</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>로봇 드림</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0%</span><span class="info-txt02">개봉일 2024.03.13</span></p>
+                    <div class="hit"><button></button>531</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+            </div>
+        </li>
+    </ul>
+</article>
+<article id="art-classic" class="art art-classic">
+    <ul>
+        <li class="calssic01">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic01.jpg" alt="[Live] 2024 빈 필하모닉 여름음악회"></div>
+                    <div class="movie-content">
+                        <p>
+                            [라이브 안내사항]<br>공연 러닝타임, 프로그램 및 출연진은 현지 사정에 의해 사전고지 없이 변경될 수 있습니다. 본 상영은 별도 자막 제공이 없으며, 음향과 화질이 고르지 못할 수 있습니다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[Live] 2024 빈 필하모닉 여름음악회</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.7%</span><span class="info-txt02">개봉일 2024.06.08</span></p>
+                    <div class="hit"><button></button>70</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+            </div>
+        </li>
+        <li class="calssic02">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic02.jpg" alt="[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤"></div>
+                    <div class="movie-content">
+                        <p>
+                            미술사의 위대한 라이벌들 : 반 고흐 VS 에드바르트 뭉크 : 그들의 별이 빛나는 밤<br>고흐는 죽음 이후 다수의 전시회에서 함께 전시되고 소개되는 일이 많았습니다. 자연스럽게 뭉크는 고흐의 예술에 공감을 하고 영향을 받습니다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.4%</span><span class="info-txt02">개봉일 2024.06.03</span></p>
+                    <div class="hit"><button></button>53</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+            </div>
+        </li>
+        <li class="calssic03">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic03.jpg" alt="[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다"></div>
+                    <div class="movie-content">
+                        <p>
+                            [강연소개]<br>표현주의에서 추상주의까지 현대미술은 어떻게 바뀌게 되었을까요? 그리고 현대미술의 흐름에 따르는 박신양 작가의 작품을 함께 들여다 볼까요?
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.3%</span><span class="info-txt02">개봉일 2024.05.31</span></p>
+                    <div class="hit"><button></button>23</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+            </div>
+        </li>
+        <li class="calssic04">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic04.jpg" alt="[로열 발레] 백조의 호수"></div>
+                    <div class="movie-content">
+                        <p>
+                            SYNOPSIS<br>사냥을 나간 지크프리트 왕자는 우연히 백조 무리를 발견한다. 그중 한 마리가 아름다운 인간 오데뜨로 변신하고 이를 본 왕자는 매혹된다. 그러나 오데뜨는 마법에 걸려 낮 동안은 백조의 모습으로 갇혀 지내야 한다. 지크프리트 왕자는 그녀를 마법에서 구할 수 있을까?
+                        </p>
+                        <span>관람평 : <span>9.6</span></span>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[로열 발레] 백조의 호수</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.2%</span><span class="info-txt02">개봉일 2024.05.21</span></p>
+                    <div class="hit"><button></button>77</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-ageall.png" alt="전체관람가">
+                </div>
+            </div>
+        </li>
+        <li class="calssic05">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic05.jpg" alt="[씨네클래식 세계3대 오페라축제] 나비부인"></div>
+                    <div class="movie-content">
+                        <p>
+                            브레겐츠 페스티벌: 나비부인<br>Bregenzer Festspiele 2022 Madame Butterfly 세계 최초의 호상 오페라 축제, 브레겐츠 페스티벌 세밀하게 묘사된 동양화를 펼쳐놓은 듯한 야외무대
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info">
+                    <h3>[씨네클래식 세계3대 오페라축제] 나비부인</h3>
+                    <p class="info-txt"><span class="info-txt01">예매율 0.2%</span><span class="info-txt02">개봉일 2024.06.06</span></p>
+                    <div class="hit"><button></button>113</div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                    <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                </div>
+            </div>
+        </li>
+    </ul>
+</article>
+<article id="art-cura" class="art art-cura">
+    <ul>
+        <li class="calssic01 cura-classic cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic01.jpg" alt="[Live] 2024 빈 필하모닉 여름음악회"></div>
+                    <div class="movie-content">
+                        <p>
+                            [라이브 안내사항]<br>공연 러닝타임, 프로그램 및 출연진은 현지 사정에 의해 사전고지 없이 변경될 수 있습니다. 본 상영은 별도 자막 제공이 없으며, 음향과 화질이 고르지 못할 수 있습니다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[Live] 2024 빈 필하모닉 여름음악회</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.7%</p>
+                        <p><span>개봉일</span>2024.06.08</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="calssic02 cura-classic cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic02.jpg" alt="[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤"></div>
+                    <div class="movie-content">
+                        <p>
+                            미술사의 위대한 라이벌들 : 반 고흐 VS 에드바르트 뭉크 : 그들의 별이 빛나는 밤<br>고흐는 죽음 이후 다수의 전시회에서 함께 전시되고 소개되는 일이 많았습니다. 자연스럽게 뭉크는 고흐의 예술에 공감을 하고 영향을 받습니다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[2024 시네도슨트 시즌 2 in 코엑스] 반 고흐 VS 에드바르 뭉크 : 그들의 별이 빛나는 밤</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.4%</p>
+                        <p><span>개봉일</span>2024.06.03</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="calssic03 cura-classic cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic03.jpg" alt="[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다"></div>
+                    <div class="movie-content">
+                        <p>
+                            [강연소개]<br>표현주의에서 추상주의까지 현대미술은 어떻게 바뀌게 되었을까요? 그리고 현대미술의 흐름에 따르는 박신양 작가의 작품을 함께 들여다 볼까요?
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.3%</p>
+                        <p><span>개봉일</span>2024.05.31</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="calssic04 cura-classic cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic04.jpg" alt="[로열 발레] 백조의 호수"></div>
+                    <div class="movie-content">
+                        <p>
+                            SYNOPSIS<br>사냥을 나간 지크프리트 왕자는 우연히 백조 무리를 발견한다. 그중 한 마리가 아름다운 인간 오데뜨로 변신하고 이를 본 왕자는 매혹된다. 그러나 오데뜨는 마법에 걸려 낮 동안은 백조의 모습으로 갇혀 지내야 한다. 지크프리트 왕자는 그녀를 마법에서 구할 수 있을까?
+                        </p>
+                        <span>관람평 : <span>9.6</span></span>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[로열 발레] 백조의 호수</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.2%</p>
+                        <p><span>개봉일</span>2024.05.21</p>
+                        <p><span>실관람평</span>9.6</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="calssic05 cura-classic cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-clasic05.jpg" alt="[씨네클래식 세계3대 오페라축제] 나비부인"></div>
+                    <div class="movie-content">
+                        <p>
+                            브레겐츠 페스티벌: 나비부인<br>Bregenzer Festspiele 2022 Madame Butterfly 세계 최초의 호상 오페라 축제, 브레겐츠 페스티벌 세밀하게 묘사된 동양화를 펼쳐놓은 듯한 야외무대
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>[씨네클래식 세계3대 오페라축제] 나비부인</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.2%</p>
+                        <p><span>개봉일</span>2024.06.06</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film01 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film01.jpg" alt="차이콥스키의 아내"></div>
+                    <div class="movie-content">
+                        <p>
+                            “신이 주신 영원한 남편이에요 차이콥스키의 아내, 그게 내 운명이에요” 19세기 러시아 모스크바 귀족 가문 출신의 안토니나. 러시아 최고의 작곡가 차이콥스키, 그를 처음 봤던 날부터 원하는 건 단 하나.
+                        </p>
+                        <span>관람평 : <span>7.8</span></span>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>차이콥스키의 아내</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.01</p>
+                        <p><span>실관람평</span>7.8</p>
+                        <img src="./images/ico-age19.png" alt="19세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film02 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film02.jpg" alt="목화솜 피는 날"></div>
+                    <div class="movie-content">
+                        <p>
+                            "멈춰있는 세월을 넘어 다시 피어나자, 우리"<br>10년 전 참혹한 사고로 '경은'을 잃고 기억을 점차 잃어가는 '병호'. 무기력함에 갇혀있던 아내 '수현'은 고통을 견디느라 이를 외면한다.
+                        </p>
+                        <span>관람평 : <span>9.2</span></span>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>목화솜 피는 날</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.22</p>
+                        <p><span>실관람평</span>9.2</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film03 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film03.jpg" alt="정욕"></div>
+                    <div class="movie-content">
+                        <p>
+                            사회적인 연결의 중요성을 믿는 검사 ‘히로키’는 유튜버가 되기 위해 등교를 거부하는 아들로 골머리를 앓는다. 타인과의 연결을 거부하던 ‘나쓰키’는 동창생 ‘요시미치’의 귀향 소식을 듣고 학창 시절 기억을 떠올리며 마음이 흔들리기 시작한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>정욕</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film04 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film04.jpg" alt="난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야"></div>
+                    <div class="movie-content">
+                        <p>
+                            인간을 죽이고 싶지 않은 마음 약한 뱀파이어 소녀 ‘사샤’ 사는 게 별로 재미없는 외톨이 소년 ‘폴’ 좋은 일엔 기꺼이 죽을 수 있는 ‘폴’은 흔쾌히 ‘사샤’의 일용할 양식(?)이 되기로 한다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age12.png" alt="12세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film05 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film05.jpg" alt="라파엘로. 예술의 군주"></div>
+                    <div class="movie-content">
+                        <p>
+                            라파엘로 서거 500주년을 기념하여 제작. 미켈란젤로와 레오나르도 다 빈치와 함께 르네 상스를 대표하는 3인의 거장으로 꼽히는 “신동(神童)” 라파엘로 산치오(1483~1520)에 대한 최초의 영화.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>라파엘로. 예술의 군주</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0.1%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film06 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film06.jpg" alt="찬란한 내일로"></div>
+                    <div class="movie-content">
+                        <p>
+                            명망 있는 영화감독 ‘조반니’는 5년 만에 새 영화 촬영에 들어간다. 그러나 명작 탄생을 기대하던 제작자는 파산 직전에, 40년을 함께한 아내마저 날벼락 같은 이혼 선언으로 그를 혼란에 빠트린다.
+                        </p>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>찬란한 내일로</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.05.29</p>
+                        <p><span>실관람평</span>개봉전</p>
+                        <img src="./images/ico-age15.png" alt="15세이상 관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+        <li class="film07 cura-film cura-all">
+            <div class="poster-wrap">
+                <div class="poster-box">
+                    <div class="img-box"><img src="./images/img-film07.jpg" alt="로봇 드림"></div>
+                    <div class="movie-content">
+                        <p>
+                            뉴욕 맨해튼에서 홀로 외롭게 살던 ‘도그’는 TV를 보다 홀린 듯 반려 로봇을 주문하고 그와 둘도 없는 단짝이 되어 행복한 나날을 보낸다
+                        </p>
+                        <span>관람평 : <span>9.3</span></span>
+                    </div>
+                </div>
+                <div class="poster-info-m">
+                    <div>
+                        <h3>로봇 드림</h3>
+                    </div>
+                    <div>
+                        <p><span>예매율</span>0%</p>
+                        <p><span>개봉일</span>2024.03.13</p>
+                        <p><span>실관람평</span>9.3</p>
+                        <img src="./images/ico-ageall.png" alt="전체관람가">
+                    </div>
+                    <div class="ticketing"><a href="#">예매</a></div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</article>
