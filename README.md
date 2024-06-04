@@ -70,7 +70,7 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br><br>
 
-<img height="300" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
+<img width="900" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
 
 > HEADER 좌측 <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
 상세한 사이트 맵 화면을 열어볼 수 있습니다.
@@ -83,7 +83,7 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img height="300" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
+<img width="900" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
 
 > HEADER 내의 <img width="15" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
 > 클릭 시 화면입니다.
