@@ -70,27 +70,27 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br><br>
 
-<img width="900" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
+<img width="600" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
 
 > HEADER 좌측 <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
 상세한 사이트 맵 화면을 열어볼 수 있습니다.
 
 <br>
 
-<img width="900" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
+<img width="600" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
 
 > HEADER의 메인 내비게이션 항목들에 Mouse Hover 했을때에는 각 내비 항목의 서브내비게이션 항목을 보실 수 있습니다.
 
 <br>
 
-<img height="300" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
+<img width="600" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
 
 > HEADER 내의 <img width="15" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
 > 클릭 시 화면입니다.
 
 <br>
 
-<img height="300" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
+<img width="600" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
 
 > HEADER 내의 <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭 시 화면 입니다.
