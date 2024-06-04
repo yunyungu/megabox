@@ -824,6 +824,9 @@ h1 a{
     .cinema-search,.footer-logo,.sns-link{
         display:none;
     }
+    .footer{
+        margin-bottom:60px;
+    }
 }
 
 @media (max-width:767px){
@@ -905,6 +908,9 @@ h1 a{
 @media (max-width:536px){
     :root{
         font-size:10px;
+    }
+    .bnb{
+        padding:1dvb;
     }
     .m-nav-head-bottom .float-left a:first-child::after {
         right:-10px;

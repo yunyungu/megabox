@@ -719,6 +719,9 @@
     .benefit::after {
         height: 230px;
     }
+    .sec05 {
+        padding: 0;
+    }
 }
 
 @media (max-width:480px){

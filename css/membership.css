@@ -469,20 +469,17 @@ h1 a{
 }
 
 @media (max-width:767px) {
-    .location ul:last-child li:first-child{
-        display: none;
-    }
-    .location ul:first-child li{
-        margin-right:1.2em;
-    }
     .location ul:first-child li:after{
-        right:-1em;
+        right:-1.1em;
     }
     .sec .uvl-tit{
         font-size:3.2em;
     }
     .sec .l-tit{
         font-size:1.2em;
+    }
+    .tab {
+        padding-top: 150px;
     }
     .membership .art01 ul{
         gap:20px;
@@ -559,5 +556,12 @@ h1 a{
         width: 14px;
         height: 12px;
         background-size: 5px;
+    }
+}
+
+
+@media (max-width:480px){
+    .tab {
+        padding-top: 100px;
     }
 }
