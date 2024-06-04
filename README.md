@@ -211,9 +211,9 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 > 위 메세지는 메인내비게이션 메뉴 중 작업되지 않은 페이지의 메뉴를 눌렀을 시에만 보여집니다.<br>
 > 모바일 화면에서는 데스크톱과 다른 형태의 내비게이션으로 작업되어있어 제공되지 않습니다.
 
-<br>
+하단 리스트를 통하여 페이지 별로 이동할 수 있는 링크를 걸어두었습니다.
 
-### :point_right: 1. INDEX
+### :point_right: 1. INDEX(https://yunyungu.github.io/megabox/index.html)
 
 ### :point_right: 2. 영화(박스오피스)
 
