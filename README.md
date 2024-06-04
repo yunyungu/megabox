@@ -4,6 +4,10 @@
 
 메가박스 사이트를 반응형 웹사이트로 변형하여 클론코딩한 작업물 입니다. :blush:
 
+작업된 페이지는 총 5페이지로,
+
+INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었습니다.
+
 <img width="500" alt="데스크톱 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/893a3ba4-03c6-4416-9803-ef83baccb903">
 <img width="300" alt="모바일 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/ea0cc7e8-0eb5-434b-899c-faf1adfd5511">
 
@@ -30,9 +34,14 @@
 * Swiper
 <img width="500" alt="swiper" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/2d3104b9-2a3a-4f90-a2b9-c49f2aff68aa">
 
-> 이 사이트에서는 swiper plugin을 사용하고 있습니다.<br>
-> 
-> 
+> 이 사이트에서는 총 5군데에서 swiper plugin을 사용하고 있습니다.<br>
+
+<img width="300" alt="swiper01" src="https://github.com/yunyungu/megabox/assets/157336396/3c8fe62d-0329-4dc4-8393-a0864386e6ea">
+<img width="300" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
+<img width="300" alt="swiper03" src="https://github.com/yunyungu/megabox/assets/157336396/cf181013-7c6e-4448-9523-524ab91ea0be">
+<img width="300" alt="swiper04" src="https://github.com/yunyungu/megabox/assets/157336396/57f38893-2b32-4d9c-87aa-b206e068ab1f">
+<img width="300" alt="swiper05" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
+
 
 <br><br>
 
@@ -60,7 +69,11 @@
 
 ## 작업 페이지
 
-작업된 페이지는 총 3페이지이며, 3페이지 모두 반응형 구조로 작업되었습니다.
+작업된 페이지는 총 5페이지이며,
+
+INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었습니다.
+
+회원가입 페이지를 제외한 다른 페이지들은 모두 반응형 웹사이트에 맞게 제작되었습니다.
 
 메인내비게이션 메뉴 중 작업되지 않은 메뉴를 클릭할 시 alert창을 통해 준비중 메세지가 뜰 것 입니다.
 
@@ -78,10 +91,26 @@
 
 ### 3. 멤버십 / VIP
 
+### 4. 로그인
+
+### 5. 회원가입
+
 <br><br>
 
 ---
 
-## 상세페이지
+## 페이지 상세설명
+
+### 1. popup ad
+
+### 2. Json 방식 활용
+
+### 3. load data 방식 활용
+
+### 4. 영화 페이지로의 접근
+
+### 5. 멤버십/VIP 페이지로의 접근
+
+### 6. 로그인/회원가입 페이지로의 접근
 
 
