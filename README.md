@@ -37,7 +37,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 > 이 사이트에서는 총 5군데에서 swiper plugin을 사용하고 있습니다.<br>
 > Swiper에서 제공하는 다양한 페이지 효과을 활용하여 컨텐츠들을 나타내보았습니다.
 
-<br><br>
+<br>
 
 <img width="300" alt="swiper01" src="https://github.com/yunyungu/megabox/assets/157336396/3c8fe62d-0329-4dc4-8393-a0864386e6ea">
 <img width="300" alt="swiper03" src="https://github.com/yunyungu/megabox/assets/157336396/cf181013-7c6e-4448-9523-524ab91ea0be">
