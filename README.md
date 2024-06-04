@@ -271,6 +271,17 @@ data.sort(function(a,b){
 
 ### :point_right: 4. 영화 페이지로의 접근
 
+<img width="600" alt="movie page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/71d8c5e0-472c-4cbd-9865-018b700e878c">
+
+> 데스크톱 사이트
+
+<br>
+
+<img width="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/902db20a-c8dd-428f-bad5-84f81ee3cf2d">
+<img width="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/684a82d3-d689-470f-9a59-acf8c2955598">
+
+> 모바일 사이트
+
 ### :point_right: 5. 영화 페이지 내 상세 컨텐츠
 
 ### :point_right: 6. 멤버십/VIP 페이지로의 접근
