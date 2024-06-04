@@ -145,8 +145,8 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img height="300" alt="movie desk" src="https://github.com/yunyungu/megabox/assets/157336396/9a0aae3e-666a-4e56-8665-517db0d12c22">
-<img height="300" alt="movie mob" src="https://github.com/yunyungu/megabox/assets/157336396/aae44dc8-b9ca-463b-af7c-6fd4fb3bbad1">
+<img height="400" alt="movie desk" src="https://github.com/yunyungu/megabox/assets/157336396/9a0aae3e-666a-4e56-8665-517db0d12c22">
+<img height="400" alt="movie mob" src="https://github.com/yunyungu/megabox/assets/157336396/aae44dc8-b9ca-463b-af7c-6fd4fb3bbad1">
 
 <br><br>
 
@@ -169,8 +169,8 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img height="300" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
-<img height="300" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
+<img height="600" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
+<img height="600" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
 
 > 모바일 사이트 입니다.
 
