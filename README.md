@@ -72,8 +72,6 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <img width="600" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
 
-<br>
-
 > HEADER 좌측 <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
 상세한 사이트 맵 화면을 열어볼 수 있습니다.
 
@@ -81,15 +79,11 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <img width="600" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
 
-<br>
-
 > HEADER의 메인 내비게이션 항목들에 Mouse Hover 했을때에는 각 내비 항목의 서브내비게이션 항목을 보실 수 있습니다.
 
 <br>
 
 <img width="600" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
-
-<br>
 
 > HEADER 내의 <img width="15" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
 > 클릭 시 화면입니다.
@@ -97,8 +91,6 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 <br>
 
 <img width="600" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
-
-<br>
 
 > HEADER 내의 <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭 시 화면 입니다.
@@ -118,8 +110,6 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 <img width="300" alt="mibile nav" src="https://github.com/yunyungu/megabox/assets/157336396/d52139b5-df5c-42cc-bec0-55e309374ad8">
 <img width="300" alt="mibile nav plus" src="https://github.com/yunyungu/megabox/assets/157336396/001cc610-4061-463b-98bf-0c024d067ba0">
 
-<br>
-
 > <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(메뉴) 버튼을 클릭하면 
 > 모바일 내비게이션 페이지가 보여집니다.<br>
 > 위 페이지는 '전체메뉴 보기/닫기' 버튼을 통하여 추가적인 메뉴들을 볼 수 있습니다.
@@ -127,8 +117,6 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 <br>
 
 <img width="600" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/706d7750-f46e-42ce-9257-cec8bff94cbf">
-
-<br>
 
 > <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭시에는 데스크톱 화면과 동일한 내용이 보여집니다.
