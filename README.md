@@ -213,7 +213,7 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 하단 리스트를 통하여 페이지 별로 이동할 수 있는 링크를 걸어두었습니다.
 
-### :point_right:<a href="https://yunyungu.github.io/megabox/index.html" target="_blank">1. INDEX</a>
+### :point_right: <a href="https://yunyungu.github.io/megabox/index.html" target="_blank">1. INDEX</a>
 
 ### [:point_right: 2. 영화(박스오피스)](https://yunyungu.github.io/megabox/movie.html){:target="_blank"}
 
