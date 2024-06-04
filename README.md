@@ -9,6 +9,8 @@
 <img width="500" alt="데스크톱 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/893a3ba4-03c6-4416-9803-ef83baccb903">
 <img width="300" alt="모바일 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/ea0cc7e8-0eb5-434b-899c-faf1adfd5511">
 
+<br><br>
+
 ---
 
 ## 반응형 구조
@@ -26,7 +28,8 @@
 ### 2. 메인 내비게이션 형태
 
 ### 3. 모바일 사용 버튼 내비게이션
-<br>
+
+<br><br>
 
 ---
 
