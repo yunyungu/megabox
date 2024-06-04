@@ -174,9 +174,23 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 > 모바일 사이트 입니다.
 
-<br><br>
+<br>
 
-#### 4-2. VIP
+#### 4-2. VIP 페이지
+
+vip/vvip/vvip 별 혜택 항목이 다르게 보여집니다.
+
+데스크톱 사이트에서는 전체 항목이 한번에 보여지지만,
+
+모바일 사이트에서는 아이콘을 통하여 항목 별 컨텐츠를 확인할 수 있습니다.
+
+<img width="600" alt="vip desk" src="https://github.com/yunyungu/megabox/assets/157336396/fd7c6f68-d616-4cec-b1f9-aef218e767b8">
+
+> 데스크톱 사이트 입니다.
+
+<img width="400" alt="vip mob" src="https://github.com/yunyungu/megabox/assets/157336396/70229ca8-9302-434c-9fa5-34d9daeac2ec">
+
+> 모바일 사이트 입니다.
 
 <br><br>
 
