@@ -239,9 +239,10 @@ INDEX 페이지로 이동하였을 때 가장 먼저 POP-UP 광고화면이 먼�
 
 ### :point_right: 2. Json 방식 활용
 
-INDEX 페이지의 포스터 컨텐츠는 Json 방식을 활용하여 서버에서 자료를 불러오는 방식을 이용하였습니다.
+<img width="600" alt="json" src="https://github.com/yunyungu/megabox/assets/157336396/c1c08894-9ffe-4371-bb32-a3e385430015">
 
-추가로 보여질 영화 포스터들이 예매율 순위 순서대로 보여질 수 있도록 하기 코드를 이용해 정렬하였습니다.
+> INDEX 페이지의 포스터 컨텐츠는 Json 방식을 활용하여 서버에서 자료를 불러오는 방식을 이용하였습니다.<br>
+> 추가로 보여질 영화 포스터들이 예매율 순위 순서대로 보여질 수 있도록 하기 코드를 이용해 정렬하였습니다.
 
 ```
 data.sort(function(a,b){           
@@ -252,6 +253,20 @@ data.sort(function(a,b){
 <br>
 
 ### :point_right: 3. load data 방식 활용
+
+<img width="600" alt="load data desk" src="https://github.com/yunyungu/megabox/assets/157336396/2857bdcd-c3b9-4ad0-9bdf-c91d911202a0">
+
+> 영화 페이지에서의 컨텐츠들은 load data 방식을 활용하였습니다.<br>
+> tab 메뉴를 클릭하면 해당 항목의 data들이 load 됩니다.<br>
+> 더많은 컨텐츠들을 불러오기 위해서는 하단의 '더보기' 버튼을 통해 불러올 수 있습니다.
+
+<br>
+
+<img width="300" alt="load data mobile" src="https://github.com/yunyungu/megabox/assets/157336396/8f845fd1-9981-47c8-81ed-1cbd6fdb4907">
+
+> 모바일 페이지에서는 '필름소사이어티'와 '클래식소사이어티' 항목을 '큐레이션' 항목으로 묶어 그 안에서 또 data load 될 수 있게 작업하였습니다.
+
+<br>
 
 ### :point_right: 4. 영화 페이지로의 접근
 
