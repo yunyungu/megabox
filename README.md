@@ -72,7 +72,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-> HEADER 좌측 <img width="20" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
+> HEADER 좌측 <img width="10" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
 상세한 사이트 맵 화면을 열어볼 수 있습니다.
 
 <br>
@@ -89,16 +89,16 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-> HEADER 내의 <img width="20" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
+> HEADER 내의 <img width="10" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
 > 클릭 시 화면입니다.
 
 <br>
 
-<img width="500" alt="desk-nav user" src="header desk-user](https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
+<img width="500" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
 
 <br>
 
-> HEADER 내의 <img width="20" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
+> HEADER 내의 <img width="10" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭 시 화면 입니다.
 
 <br>
