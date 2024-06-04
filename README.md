@@ -235,7 +235,7 @@ INDEX 페이지로 이동하였을 때 가장 먼저 POP-UP 광고화면이 먼�
 
 <img width="300" alt="popup ad" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
 
-<br>
+<br><br>
 
 ### :point_right: 2. Json 방식 활용
 
@@ -250,7 +250,7 @@ data.sort(function(a,b){
 })
 ```
 
-<br>
+<br><br>
 
 ### :point_right: 3. load data 방식 활용
 
@@ -262,11 +262,12 @@ data.sort(function(a,b){
 
 <br>
 
-<img width="300" alt="load data mobile" src="https://github.com/yunyungu/megabox/assets/157336396/8f845fd1-9981-47c8-81ed-1cbd6fdb4907">
+<img width="300" alt="load data mobile" src="https://github.com/yunyungu/megabox/assets/157336396/e4aeaf18-5f13-42d8-a88f-7177c4bb1fdd">
+
 
 > 모바일 페이지에서는 '필름소사이어티'와 '클래식소사이어티' 항목을 '큐레이션' 항목으로 묶어 그 안에서 또 data load 될 수 있게 작업하였습니다.
 
-<br>
+<br><br>
 
 ### :point_right: 4. 영화 페이지로의 접근
 
