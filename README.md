@@ -1,4 +1,4 @@
-[사이트 바로가기](https://yunyungu.github.io/megabox/)
+![sign03](https://github.com/yunyungu/megabox/assets/157336396/b2b931db-28b1-46d2-aa20-074fe7064f81)[사이트 바로가기](https://yunyungu.github.io/megabox/)
 
 # MEGABOX 클론코딩 :movie_camera:
 
@@ -323,8 +323,39 @@ data.sort(function(a,b){
 
 ### :point_right: 7. 로그인 페이지로의 접근
 
+<img height="300" alt="login page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/d4ada380-8433-494b-adfc-e203d2d4cd99">
+<img height="300" alt="login page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/a13e17d4-1c0b-4679-a14e-417cb4bbbf43">
 
+> 데스크톱 사이트
+
+<br>
+
+<img height="300" alt="login page moblie" src="https://github.com/yunyungu/megabox/assets/157336396/cca86822-9184-4f66-a804-24b321222e3a">
+<img height="300" alt="login page moblie" src="https://github.com/yunyungu/megabox/assets/157336396/b825c5b5-2900-4010-8c7b-0dd478d79205">
+
+> 모바일 사이트
+
+<br><br>
 
 ### :point_right: 8. 회원가입 페이지로의 접근
+
+<img height="300" alt="signin page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/fb9cd67e-828e-4693-ba25-d3cbc05cd953">
+
+> 데스크톱 사이트
+
+<br>
+
+<img height="300" alt="signin page moblie" src="https://github.com/yunyungu/megabox/assets/157336396/07ce1884-2e64-431a-a7ef-c3807d817c7f">
+<img height="300" alt="signin page moblie" src="https://github.com/yunyungu/megabox/assets/157336396/b08a0169-500a-44c9-a7df-19ebc9491a56">
+
+> 모바일 사이트
+
+<br><br>
+
+---
+
+지금까지 메가박스 클론코딩 사이트에 대한 가이드였습니다.
+
+감사합니다. :bowtie:
 
 
