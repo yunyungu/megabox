@@ -29,7 +29,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 ---
 
-## Plugin
+## :heart: Plugin
 
 * Swiper
 <img width="500" alt="swiper" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/2d3104b9-2a3a-4f90-a2b9-c49f2aff68aa">
