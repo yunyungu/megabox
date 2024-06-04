@@ -293,8 +293,8 @@ data.sort(function(a,b){
 
 <br>
 
-<img height="500" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/4a6d2886-ffc9-40c9-af59-e7f8ac2c54ce">
-<img height="500" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/fa71929d-65aa-470d-a38e-e274a92a42a7">
+<img height="400" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/4a6d2886-ffc9-40c9-af59-e7f8ac2c54ce">
+<img height="400" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/fa71929d-65aa-470d-a38e-e274a92a42a7">
 
 > 모바일 사이트
 
@@ -306,8 +306,24 @@ data.sort(function(a,b){
 
 <img height="300" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/7e23a1a7-ac6b-486d-b659-1b94e40fbe70">
 
+<br>
+
+### :point_right: 7. 로그인 페이지
+
+로그인 페이지는 modal창 형태로 보여집니다.
+
+데스크톱 사이트에서는 가로형태 팝업으로 보이며 body는 장금 설정됩니다.
+
+모바일사이트에서는 세로형태에 화면에 가득찬 형태로 보여집니다.
+
+<img height="400" alt="login desktop" src="https://github.com/yunyungu/megabox/assets/157336396/03f1b2b1-8dec-451f-aca5-23b001a482cf">
+<img height="400" alt="login moblie" src="https://github.com/yunyungu/megabox/assets/157336396/4b4ecef3-4094-4768-924f-3deba8edd892">
+
+<br>
 
 ### :point_right: 7. 로그인 페이지로의 접근
+
+
 
 ### :point_right: 8. 회원가입 페이지로의 접근
 
