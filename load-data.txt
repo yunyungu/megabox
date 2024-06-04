@@ -540,6 +540,8 @@
                 <div class="poster-info-m">
                     <div>
                         <h3>[2024 시네도슨트 박신양 앙코르 in 대전신세계] 현대미술의 흐름을 읽다</h3>
+                    </div>
+                    <div>
                         <p><span>예매율</span>0.4%</p>
                         <p><span>개봉일</span>2024.05.31</p>
                         <p><span>실관람평</span>개봉전</p>
