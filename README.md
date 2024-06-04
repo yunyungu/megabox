@@ -278,18 +278,37 @@ data.sort(function(a,b){
 <br>
 
 <img width="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/902db20a-c8dd-428f-bad5-84f81ee3cf2d">
-<img width="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/684a82d3-d689-470f-9a59-acf8c2955598">
+<img width="400" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/684a82d3-d689-470f-9a59-acf8c2955598">
 
 > 모바일 사이트
 
-### :point_right: 5. 영화 페이지 내 상세 컨텐츠
+<br>
 
-### :point_right: 6. 멤버십/VIP 페이지로의 접근
+### :point_right: 5. 멤버십/VIP 페이지로의 접근
 
-### :point_right: 7. 멤버십/VIP 페이지 내 상세 컨텐츠
+<img height="300" alt="vip page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/447fa355-3d11-4516-965e-985844ca9577">
+<img height="300" alt="vip page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/29f3968a-cc14-49c1-9fb3-6cc63fb638d1">
 
-### :point_right: 8. 로그인 페이지로의 접근
+> 데스크톱 사이트
 
-### :point_right: 9. 회원가입 페이지로의 접근
+<br>
+
+<img height="600" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/4a6d2886-ffc9-40c9-af59-e7f8ac2c54ce">
+<img height="600" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/fa71929d-65aa-470d-a38e-e274a92a42a7">
+
+> 모바일 사이트
+
+<br><br>
+
+### :point_right: 6. 멤버십/VIP 페이지 전환 TAB MENU
+
+멤버십/VIP 페이지 안에서는 TAB MENU 를 통하여 같은 페이지 안에서 각각의 컨텐츠들이 보여집니다.
+
+<img height="300" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/7e23a1a7-ac6b-486d-b659-1b94e40fbe70">
+
+
+### :point_right: 7. 로그인 페이지로의 접근
+
+### :point_right: 8. 회원가입 페이지로의 접근
 
 
