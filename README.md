@@ -72,7 +72,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-> HEADER 좌측 <img width="10" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
+> HEADER 좌측 <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
 상세한 사이트 맵 화면을 열어볼 수 있습니다.
 
 <br>
@@ -89,7 +89,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-> HEADER 내의 <img width="10" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
+> HEADER 내의 <img width="15" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
 > 클릭 시 화면입니다.
 
 <br>
@@ -98,7 +98,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-> HEADER 내의 <img width="10" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
+> HEADER 내의 <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭 시 화면 입니다.
 
 <br>
@@ -131,15 +131,15 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br><br>
 
-### 1. INDEX
+### :point_right: 1. INDEX
 
-### 2. 영화(박스오피스)
+### :point_right: 2. 영화(박스오피스)
 
-### 3. 멤버십 / VIP
+### :point_right: 3. 멤버십 / VIP
 
-### 4. 로그인
+### :point_right: 4. 로그인
 
-### 5. 회원가입
+### :point_right: 5. 회원가입
 
 <br><br>
 
@@ -147,20 +147,20 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 ## 페이지 상세설명
 
-### 1. popup ad
+### :point_right: 1. popup ad
 
-### 2. Json 방식 활용
+### :point_right: 2. Json 방식 활용
 
-### 3. load data 방식 활용
+### :point_right: 3. load data 방식 활용
 
-### 4. 영화 페이지로의 접근
+### :point_right: 4. 영화 페이지로의 접근
 
-### 5. 영화 페이지 내 상세 컨텐츠
+### :point_right: 5. 영화 페이지 내 상세 컨텐츠
 
-### 6. 멤버십/VIP 페이지로의 접근
+### :point_right: 6. 멤버십/VIP 페이지로의 접근
 
-### 7. 멤버십/VIP 페이지 내 상세 컨텐츠
+### :point_right: 7. 멤버십/VIP 페이지 내 상세 컨텐츠
 
-### 8. 로그인/회원가입 페이지로의 접근
+### :point_right: 8. 로그인/회원가입 페이지로의 접근
 
 
