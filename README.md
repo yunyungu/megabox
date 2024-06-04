@@ -162,15 +162,15 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-<img width="400" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/3033c8ec-9774-46b7-95e5-b07fc0b8a8e5">
-<img width="410" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/660f8a5b-69fb-4737-b89b-df42204ca73a">
+<img width="410" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/3033c8ec-9774-46b7-95e5-b07fc0b8a8e5">
+<img width="400" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/660f8a5b-69fb-4737-b89b-df42204ca73a">
 
 > 데스크톱 사이트 입니다.
 
 <br>
 
 <img width="250" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
-<img width="320" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
+<img width="330" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
 
 > 모바일 사이트 입니다.
 
