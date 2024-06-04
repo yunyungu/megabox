@@ -332,10 +332,10 @@ h1 a{
     background:#503396;
 }
 .btn-ss{
-    width:16px;
-    height:16px;
+    width:15px;
+    height:15px;
     background:url(../images/ico-pause.svg) no-repeat center;
-    background-size:10px;
+    background-size:9px;
     text-indent:-99999px;
     cursor:pointer;
 }
@@ -497,12 +497,18 @@ h1 a{
         display:none;
     }
     .vip-controls{                
-        grid-template-columns:15px;
-        padding-right:16px;
+        top:5px;
+        left: auto;
+        display: flex;
     }
-    .vip-scrollbar,.btn-prev,.btn-next,.vip-pagination{
+    .vip-scrollbar{
         display:none;
-    }  
+    }
+    .btn-ss {
+        width: 16px;
+        height: 10px;
+        background-size: 8px;
+    }
     .vip-nav{
         grid-template-columns:repeat(3,80px);
         grid-template-rows:80px;
@@ -543,5 +549,15 @@ h1 a{
     }
     .membership .table{
         width:auto;
+    }
+    .btn-ss {
+        width: 14px;
+        height: 8px;
+        background-size: 6px;
+    }
+    .vip-controls .btn-prev, .vip-controls .btn-next {
+        width: 14px;
+        height: 12px;
+        background-size: 5px;
     }
 }

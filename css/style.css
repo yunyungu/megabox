@@ -750,7 +750,7 @@ h1 a{
 
 @media (max-width:1099px){
     :root{
-        font-size:12px;
+        font-size:13px;
     }
     .ad01,.dt-nav,.q-nav01,.q-nav02,.q-nav03{
         display:none;
@@ -765,7 +765,12 @@ h1 a{
     }
     .header .container {                
         grid-template-columns:repeat(8, 1fr);                
-    }  
+    } 
+    .m-nav-head-bottom .float-left a:first-child::after {
+        right:-13px;
+        top:4px;
+        height:12px;
+    }
     h1{
         grid-area: 1/3/2/7;
         padding-top:8px;
@@ -823,10 +828,19 @@ h1 a{
 
 @media (max-width:767px){
     :root{
-        font-size:10px;
+        font-size:12px;
     }
     .container{
         padding:0 10px;
+    }
+    .m-nav-head-bottom .float-left a:first-child::after {
+        right: -12px;
+        top: 3px;
+        height: 11px;
+    }
+    .m-nav-head-top span {
+        width: 30px;
+        height: 30px;
     }
     .header{
         padding: 0.2em 0 0.5em;
@@ -889,8 +903,35 @@ h1 a{
 }
 
 @media (max-width:536px){
+    :root{
+        font-size:10px;
+    }
+    .m-nav-head-bottom .float-left a:first-child::after {
+        right:-10px;
+        top:2px;
+        height:10px;
+    }
+    .m-nav-head-top span {
+        width:24px;
+        height:24px;
+    }
     .mega-info-notice ul li:last-child a{
         padding:0;
         background:0;
+    }
+    .location-home, .location-share {
+        width:11px;
+        height:11px;
+    }
+}
+
+
+@media (max-width:480px){
+    :root{
+        font-size:8px;
+    }
+    .m-nav-head-bottom .float-left a:first-child::after {
+        right:-8px;
+        height:8px;
     }
 }
