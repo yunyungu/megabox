@@ -213,9 +213,9 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 하단 리스트를 통하여 페이지 별로 이동할 수 있는 링크를 걸어두었습니다.
 
-### :point_right: <a href="https://yunyungu.github.io/megabox/index.html" target="_blank">1. INDEX</a>
+### [:point_right: 1. INDEX](https://yunyungu.github.io/megabox/index.html)
 
-### [:point_right: 2. 영화(박스오피스)](https://yunyungu.github.io/megabox/movie.html){:target="_blank"}
+### [:point_right: 2. 영화(박스오피스)](https://yunyungu.github.io/megabox/movie.html)
 
 ### [:point_right: 3. 멤버십 / VIP](https://yunyungu.github.io/megabox/membership.html#membership)
 
@@ -227,9 +227,29 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 ## :heart: 페이지 상세설명
 
-### :point_right: 1. popup ad
+### :point_right: 1. POP-UP AD
+
+INDEX 페이지로 이동하였을 때 가장 먼저 POP-UP 광고화면이 먼저 보여집니다.
+
+이 팝업 화면은 cookie를 활용하여 하루동안 보지 않기 기능을 활용하였습니다.
+
+<img width="300" alt="popup ad" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
+
+<br>
 
 ### :point_right: 2. Json 방식 활용
+
+INDEX 페이지의 포스터 컨텐츠는 Json 방식을 활용하여 서버에서 자료를 불러오는 방식을 이용하였습니다.
+
+추가로 보여질 영화 포스터들이 예매율 순위 순서대로 보여질 수 있도록 하기 코드를 이용해 정렬하였습니다.
+
+```
+data.sort(function(a,b){           
+  return b.ticketing - a.ticketing;
+})
+```
+
+<br>
 
 ### :point_right: 3. load data 방식 활용
 
