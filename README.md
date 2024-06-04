@@ -107,8 +107,8 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br><br>
 
-<img height="300" alt="mibile nav" src="https://github.com/yunyungu/megabox/assets/157336396/d52139b5-df5c-42cc-bec0-55e309374ad8">
-<img height="300" alt="mibile nav plus" src="https://github.com/yunyungu/megabox/assets/157336396/001cc610-4061-463b-98bf-0c024d067ba0">
+<img height="600" alt="mibile nav" src="https://github.com/yunyungu/megabox/assets/157336396/d52139b5-df5c-42cc-bec0-55e309374ad8">
+<img height="600" alt="mibile nav plus" src="https://github.com/yunyungu/megabox/assets/157336396/001cc610-4061-463b-98bf-0c024d067ba0">
 
 > <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(메뉴) 버튼을 클릭하면 
 > 모바일 내비게이션 페이지가 보여집니다.<br>
