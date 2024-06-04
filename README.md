@@ -8,8 +8,8 @@
 
 INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (로그인 페이지는 팝업 형태로 보여집니다.)
 
-<img width="500" alt="데스크톱 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/893a3ba4-03c6-4416-9803-ef83baccb903">
-<img width="300" alt="모바일 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/ea0cc7e8-0eb5-434b-899c-faf1adfd5511">
+<img height="300" alt="데스크톱 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/893a3ba4-03c6-4416-9803-ef83baccb903">
+<img height="300" alt="모바일 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/ea0cc7e8-0eb5-434b-899c-faf1adfd5511">
 
 <br><br>
 
@@ -19,11 +19,11 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 * 퍼블리싱
 <br><br>
-<img width="100" alt="vscode" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/01cacb03-858c-4af4-8b85-3a40782f7256">
-<img width="100" alt="html" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/f3e150a5-7e80-4d73-8049-994bdb9968e9">
-<img width="100" alt="css" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/3c97d5f4-0a93-412c-bf39-cdbdbe13b55e">
-<img width="100" alt="javascript" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/e55a6af9-5f0f-4f1d-95fd-1b2108d2e891">
-<img width="100" alt="jquery" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/26701d80-6296-43b5-b526-3836bdae1856">
+<img height="100" alt="vscode" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/01cacb03-858c-4af4-8b85-3a40782f7256">
+<img height="100" alt="html" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/f3e150a5-7e80-4d73-8049-994bdb9968e9">
+<img height="100" alt="css" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/3c97d5f4-0a93-412c-bf39-cdbdbe13b55e">
+<img height="100" alt="javascript" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/e55a6af9-5f0f-4f1d-95fd-1b2108d2e891">
+<img height="100" alt="jquery" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/26701d80-6296-43b5-b526-3836bdae1856">
 
 <br><br>
 
@@ -39,11 +39,11 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img width="300" alt="swiper01" src="https://github.com/yunyungu/megabox/assets/157336396/3c8fe62d-0329-4dc4-8393-a0864386e6ea">
-<img width="300" alt="swiper03" src="https://github.com/yunyungu/megabox/assets/157336396/cf181013-7c6e-4448-9523-524ab91ea0be">
-<img width="350" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
-<img width="240" alt="swiper05" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
-<img width="550" alt="swiper04" src="https://github.com/yunyungu/megabox/assets/157336396/57f38893-2b32-4d9c-87aa-b206e068ab1f">
+<img height="300" alt="swiper01" src="https://github.com/yunyungu/megabox/assets/157336396/3c8fe62d-0329-4dc4-8393-a0864386e6ea">
+<img height="300" alt="swiper03" src="https://github.com/yunyungu/megabox/assets/157336396/cf181013-7c6e-4448-9523-524ab91ea0be">
+<img height="300" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
+<img height="300" alt="swiper05" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
+<img height="300" alt="swiper04" src="https://github.com/yunyungu/megabox/assets/157336396/57f38893-2b32-4d9c-87aa-b206e068ab1f">
 
 
 <br><br>
@@ -70,27 +70,27 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br><br>
 
-<img width="600" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
+<img height="300" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
 
 > HEADER 좌측 <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(MENU) 버튼을 클릭하면 
 상세한 사이트 맵 화면을 열어볼 수 있습니다.
 
 <br>
 
-<img width="600" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
+<img height="300" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
 
 > HEADER의 메인 내비게이션 항목들에 Mouse Hover 했을때에는 각 내비 항목의 서브내비게이션 항목을 보실 수 있습니다.
 
 <br>
 
-<img width="600" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
+<img height="300" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
 
 > HEADER 내의 <img width="15" alt="search btn" src="https://github.com/yunyungu/megabox/assets/157336396/fdb17248-c6fc-4cc1-b50a-db6771b84b3f">(검색)버튼 
 > 클릭 시 화면입니다.
 
 <br>
 
-<img width="600" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
+<img height="300" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
 
 > HEADER 내의 <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭 시 화면 입니다.
@@ -107,8 +107,8 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br><br>
 
-<img width="300" alt="mibile nav" src="https://github.com/yunyungu/megabox/assets/157336396/d52139b5-df5c-42cc-bec0-55e309374ad8">
-<img width="300" alt="mibile nav plus" src="https://github.com/yunyungu/megabox/assets/157336396/001cc610-4061-463b-98bf-0c024d067ba0">
+<img height="300" alt="mibile nav" src="https://github.com/yunyungu/megabox/assets/157336396/d52139b5-df5c-42cc-bec0-55e309374ad8">
+<img height="300" alt="mibile nav plus" src="https://github.com/yunyungu/megabox/assets/157336396/001cc610-4061-463b-98bf-0c024d067ba0">
 
 > <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(메뉴) 버튼을 클릭하면 
 > 모바일 내비게이션 페이지가 보여집니다.<br>
@@ -116,7 +116,7 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img width="600" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/706d7750-f46e-42ce-9257-cec8bff94cbf">
+<img height="300" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/706d7750-f46e-42ce-9257-cec8bff94cbf">
 
 > <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
 > 클릭시에는 데스크톱 화면과 동일한 내용이 보여집니다.
@@ -145,8 +145,8 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img width="600" alt="movie desk" src="https://github.com/yunyungu/megabox/assets/157336396/9a0aae3e-666a-4e56-8665-517db0d12c22">
-<img width="300" alt="movie mob" src="https://github.com/yunyungu/megabox/assets/157336396/aae44dc8-b9ca-463b-af7c-6fd4fb3bbad1">
+<img height="300" alt="movie desk" src="https://github.com/yunyungu/megabox/assets/157336396/9a0aae3e-666a-4e56-8665-517db0d12c22">
+<img height="300" alt="movie mob" src="https://github.com/yunyungu/megabox/assets/157336396/aae44dc8-b9ca-463b-af7c-6fd4fb3bbad1">
 
 <br><br>
 
@@ -162,15 +162,15 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img width="410" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/3033c8ec-9774-46b7-95e5-b07fc0b8a8e5">
-<img width="400" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/660f8a5b-69fb-4737-b89b-df42204ca73a">
+<img height="300" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/3033c8ec-9774-46b7-95e5-b07fc0b8a8e5">
+<img height="300" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/660f8a5b-69fb-4737-b89b-df42204ca73a">
 
 > 데스크톱 사이트 입니다.
 
 <br>
 
-<img width="250" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
-<img width="330" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
+<img height="300" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
+<img height="300" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
 
 > 모바일 사이트 입니다.
 
@@ -184,8 +184,8 @@ vip/vvip/vvip 별 혜택 항목이 다르게 보여집니다.
 
 모바일 사이트에서는 아이콘을 통하여 항목 별 컨텐츠를 확인할 수 있습니다.
 
-<img width="500" alt="vip desk" src="https://github.com/yunyungu/megabox/assets/157336396/fd7c6f68-d616-4cec-b1f9-aef218e767b8">
-<img width="300" alt="vip mob" src="https://github.com/yunyungu/megabox/assets/157336396/70229ca8-9302-434c-9fa5-34d9daeac2ec">
+<img height="300" alt="vip desk" src="https://github.com/yunyungu/megabox/assets/157336396/fd7c6f68-d616-4cec-b1f9-aef218e767b8">
+<img height="300" alt="vip mob" src="https://github.com/yunyungu/megabox/assets/157336396/70229ca8-9302-434c-9fa5-34d9daeac2ec">
 
 <br><br>
 
@@ -205,7 +205,7 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 메인내비게이션 메뉴 중 작업되지 않은 메뉴를 클릭할 시 alert창을 통해 준비중 메세지가 뜰 것 입니다.
 
-<img width="500" alt="swiper" src="https://github.com/yunyungu/megabox/assets/157336396/33c23d24-ad24-4ac8-b6ca-b0fd967e7321">
+<img height="300" alt="swiper" src="https://github.com/yunyungu/megabox/assets/157336396/33c23d24-ad24-4ac8-b6ca-b0fd967e7321">
 
 > alert 창을 통한 준비중 메세지 입니다.<br>
 > 위 메세지는 메인내비게이션 메뉴 중 작업되지 않은 페이지의 메뉴를 눌렀을 시에만 보여집니다.<br>
@@ -233,13 +233,13 @@ INDEX 페이지로 이동하였을 때 가장 먼저 POP-UP 광고화면이 먼�
 
 이 팝업 화면은 cookie를 활용하여 하루동안 보지 않기 기능을 활용하였습니다.
 
-<img width="300" alt="popup ad" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
+<img height="300" alt="popup ad" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
 
 <br><br>
 
 ### :point_right: 2. Json 방식 활용
 
-<img width="600" alt="json" src="https://github.com/yunyungu/megabox/assets/157336396/c1c08894-9ffe-4371-bb32-a3e385430015">
+<img height="300" alt="json" src="https://github.com/yunyungu/megabox/assets/157336396/c1c08894-9ffe-4371-bb32-a3e385430015">
 
 > INDEX 페이지의 포스터 컨텐츠는 Json 방식을 활용하여 서버에서 자료를 불러오는 방식을 이용하였습니다.<br>
 > 추가로 보여질 영화 포스터들이 예매율 순위 순서대로 보여질 수 있도록 하기 코드를 이용해 정렬하였습니다.
@@ -254,7 +254,7 @@ data.sort(function(a,b){
 
 ### :point_right: 3. load data 방식 활용
 
-<img width="600" alt="load data desk" src="https://github.com/yunyungu/megabox/assets/157336396/2857bdcd-c3b9-4ad0-9bdf-c91d911202a0">
+<img height="300" alt="load data desk" src="https://github.com/yunyungu/megabox/assets/157336396/2857bdcd-c3b9-4ad0-9bdf-c91d911202a0">
 
 > 영화 페이지에서의 컨텐츠들은 load data 방식을 활용하였습니다.<br>
 > tab 메뉴를 클릭하면 해당 항목의 data들이 load 됩니다.<br>
@@ -262,7 +262,7 @@ data.sort(function(a,b){
 
 <br>
 
-<img width="300" alt="load data mobile" src="https://github.com/yunyungu/megabox/assets/157336396/e4aeaf18-5f13-42d8-a88f-7177c4bb1fdd">
+<img height="300" alt="load data mobile" src="https://github.com/yunyungu/megabox/assets/157336396/e4aeaf18-5f13-42d8-a88f-7177c4bb1fdd">
 
 
 > 모바일 페이지에서는 '필름소사이어티'와 '클래식소사이어티' 항목을 '큐레이션' 항목으로 묶어 그 안에서 또 data load 될 수 있게 작업하였습니다.
@@ -271,14 +271,14 @@ data.sort(function(a,b){
 
 ### :point_right: 4. 영화 페이지로의 접근
 
-<img width="600" alt="movie page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/71d8c5e0-472c-4cbd-9865-018b700e878c">
+<img height="300" alt="movie page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/71d8c5e0-472c-4cbd-9865-018b700e878c">
 
 > 데스크톱 사이트
 
 <br>
 
-<img width="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/902db20a-c8dd-428f-bad5-84f81ee3cf2d">
-<img width="400" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/684a82d3-d689-470f-9a59-acf8c2955598">
+<img height="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/902db20a-c8dd-428f-bad5-84f81ee3cf2d">
+<img height="300" alt="movie page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/684a82d3-d689-470f-9a59-acf8c2955598">
 
 > 모바일 사이트
 
