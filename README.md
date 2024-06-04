@@ -133,6 +133,28 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br><br>
 
+### :point_right: 3. 영화 페이지
+
+영화 페이지의 항목들은 데스크톱과 모바일 사이트에서 다르게 보여집니다.
+
+<br>
+
+<img width="600" alt="movie desk" src="https://github.com/yunyungu/megabox/assets/157336396/9a0aae3e-666a-4e56-8665-517db0d12c22">
+
+> 데스크톱 사이트에서는 한 라인에 총 4개 항목의 영화 포스터들이 보여집니다.
+> 위 포스터 항목들에 mouse hover 했을시 영화에 대한 상세설명을 확인해 보실 수 있습니다.
+
+<br>
+
+<img width="300" alt="movie mob" src="https://github.com/yunyungu/megabox/assets/157336396/aae44dc8-b9ca-463b-af7c-6fd4fb3bbad1">
+
+> 모바일 사이트에서는 아래로 계속 스크롤 하며 볼 수 있게 나열하였습니다.
+> 모바일 기기는 화면이 작아 포스터별 상세 설명은 바로 제공되지 않습니다.
+
+<br><br>
+
+---
+
 ### :point_right: 그밖의 폭 변화에 따른 상세한 스타일들의 변화 또한 체험해 주신다면 감사하겠습니다!
 
 <br><br>
