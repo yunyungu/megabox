@@ -169,8 +169,8 @@ INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (
 
 <br>
 
-<img height="600" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
-<img height="600" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
+<img height="500" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
+<img height="500" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
 
 > 모바일 사이트 입니다.
 
@@ -293,8 +293,8 @@ data.sort(function(a,b){
 
 <br>
 
-<img height="600" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/4a6d2886-ffc9-40c9-af59-e7f8ac2c54ce">
-<img height="600" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/fa71929d-65aa-470d-a38e-e274a92a42a7">
+<img height="500" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/4a6d2886-ffc9-40c9-af59-e7f8ac2c54ce">
+<img height="500" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/fa71929d-65aa-470d-a38e-e274a92a42a7">
 
 > 모바일 사이트
 
