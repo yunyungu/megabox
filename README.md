@@ -150,7 +150,35 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br><br>
 
----
+### :point_right: 4. 멤버십/VIP 페이지
+
+#### 4-1. 멤버십 페이지
+
+하단의 상세 컨텐츠들이 반응합니다.
+
+데스크톱 사이트에서는 상세 내용들이 바로 보여지며, 스크롤하여 보거나 아이콘 클릭 시 해당 내용으로 이동하는 형태 입니다.
+
+모바일 사이트에서는 상세내용들이 바로 보이지 않으며 아이콘 클릭시 해당 내용만 하단에 보여지며 스크롤 또한 이동하는 형태입니다.
+
+<br>
+
+<img width="400" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/660f8a5b-69fb-4737-b89b-df42204ca73a">
+<img width="300" alt="mem desk" src="https://github.com/yunyungu/megabox/assets/157336396/64330fc0-5626-4ba0-af43-34b7ae03c3ce">
+
+> 데스크톱 사이트 입니다.
+
+<br>
+
+<img width="200" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/d2c6de6d-039b-48bb-99d6-a5d020b6b86a">
+<img width="300" alt="mem mob" src="https://github.com/yunyungu/megabox/assets/157336396/781fe4e4-9220-4099-8928-09e72b02960f">
+
+> 모바일 사이트 입니다.
+
+<br><br>
+
+#### 4-2. VIP
+
+<br><br>
 
 ### :point_right: 그밖의 폭 변화에 따른 상세한 스타일들의 변화 또한 체험해 주신다면 감사하겠습니다!
 
