@@ -29,6 +29,7 @@
 
 * Swiper
 <img width="500" alt="swiper" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/2d3104b9-2a3a-4f90-a2b9-c49f2aff68aa">
+
 > 이 사이트에서는 swiper plugin을 사용하고 있습니다.<br>
 > 
 > 
@@ -65,7 +66,7 @@
 
 <img width="500" alt="swiper" src="https://github.com/yunyungu/megabox/assets/157336396/33c23d24-ad24-4ac8-b6ca-b0fd967e7321">
 
-> alert 창을 통한 준비중 메세지 입니다.
+> alert 창을 통한 준비중 메세지 입니다.<br>
 > 위 메세지는 메인내비게이션 메뉴 중 작업되지 않은 페이지의 메뉴를 눌렀을 시에만 보여집니다.
 
 
