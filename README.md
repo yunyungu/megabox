@@ -1,4 +1,4 @@
-![sign03](https://github.com/yunyungu/megabox/assets/157336396/b2b931db-28b1-46d2-aa20-074fe7064f81)[사이트 바로가기](https://yunyungu.github.io/megabox/)
+[사이트 바로가기](https://yunyungu.github.io/megabox/)
 
 # MEGABOX 클론코딩 :movie_camera:
 
