@@ -66,11 +66,11 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 데스크톱 사이트에서는 메인 내비게이션이 바로 보여지도록 작업되어있습니다.
 
-<img width="800" alt="desk header" src="https://github.com/yunyungu/megabox/assets/157336396/4fe2afda-9990-4071-8d44-391a86f82582">
+<img width="900" alt="desk header" src="https://github.com/yunyungu/megabox/assets/157336396/4fe2afda-9990-4071-8d44-391a86f82582">
 
 <br><br>
 
-<img width="500" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
+<img width="600" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
 
 <br>
 
@@ -79,7 +79,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-<img width="500" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
+<img width="600" alt="desk-nav mouse hover" src="https://github.com/yunyungu/megabox/assets/157336396/13a1fe2e-e105-46b2-9001-88a96fc584d0">
 
 <br>
 
@@ -87,7 +87,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-<img width="500" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
+<img width="600" alt="desk-nav search" src="https://github.com/yunyungu/megabox/assets/157336396/4b21a32e-b146-47ef-85f8-8253d1a38049">
 
 <br>
 
@@ -96,7 +96,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-<img width="500" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
+<img width="600" alt="desk-nav user" src="https://github.com/yunyungu/megabox/assets/157336396/8a747164-7db2-4dc1-a389-7e72e73a363a">
 
 <br>
 
@@ -111,7 +111,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 작은 화면에서 답답하게 보이지 않게 메인 내비게이션 항목들은 보이지 않게 처리하고 별도의 메뉴 페이지가 보여질 수 있도록 작업하였습니다.
 
-<img width="800" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/0b18aef8-c56f-426d-8871-ae4a7d0b1716">
+<img width="900" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/0b18aef8-c56f-426d-8871-ae4a7d0b1716">
 
 <br><br>
 
@@ -126,7 +126,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <br>
 
-<img width="500" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/706d7750-f46e-42ce-9257-cec8bff94cbf">
+<img width="600" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/706d7750-f46e-42ce-9257-cec8bff94cbf">
 
 <br>
 
