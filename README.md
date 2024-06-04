@@ -38,7 +38,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <img width="300" alt="swiper01" src="https://github.com/yunyungu/megabox/assets/157336396/3c8fe62d-0329-4dc4-8393-a0864386e6ea">
 <img width="300" alt="swiper03" src="https://github.com/yunyungu/megabox/assets/157336396/cf181013-7c6e-4448-9523-524ab91ea0be">
-<img width="400" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
+<img width="350" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
 <img width="250" alt="swiper05" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
 <img width="550" alt="swiper04" src="https://github.com/yunyungu/megabox/assets/157336396/57f38893-2b32-4d9c-87aa-b206e068ab1f">
 
