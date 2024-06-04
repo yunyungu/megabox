@@ -4,9 +4,9 @@
 
 메가박스 사이트를 반응형 웹사이트로 변형하여 클론코딩한 작업물 입니다. :blush:
 
-작업된 페이지는 총 5페이지로,
+작업된 페이지는 총 4페이지로,
 
-INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었습니다.
+INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (로그인 페이지는 팝업 형태로 보여집니다.)
 
 <img width="500" alt="데스크톱 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/893a3ba4-03c6-4416-9803-ef83baccb903">
 <img width="300" alt="모바일 이미지" src="https://github.com/yunyungu/megabox/assets/157336396/ea0cc7e8-0eb5-434b-899c-faf1adfd5511">
@@ -197,9 +197,9 @@ vip/vvip/vvip 별 혜택 항목이 다르게 보여집니다.
 
 ## :heart: 작업 페이지
 
-작업된 페이지는 총 5페이지이며,
+작업된 페이지는 총 4페이지이며,
 
-INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었습니다.
+INDEX, 영화, 멤버십/VIP, 회원가입 페이지가 작업되었습니다. (로그인 페이지는 팝업 형태로 보여집니다.)
 
 회원가입 페이지를 제외한 다른 페이지들은 모두 반응형 웹사이트에 맞게 제작되었습니다.
 
@@ -213,15 +213,13 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 하단 리스트를 통하여 페이지 별로 이동할 수 있는 링크를 걸어두었습니다.
 
-### [:point_right:](https://yunyungu.github.io/megabox/index.html) 1. INDEX
+### [:point_right: 1. INDEX](https://yunyungu.github.io/megabox/index.html)
 
-### :point_right: 2. 영화(박스오피스)
+### [:point_right: 2. 영화(박스오피스)](https://yunyungu.github.io/megabox/movie.html)
 
-### :point_right: 3. 멤버십 / VIP
+### [:point_right: 3. 멤버십 / VIP](https://yunyungu.github.io/megabox/membership.html#membership)
 
-### :point_right: 4. 로그인
-
-### :point_right: 5. 회원가입
+### [:point_right: 4. 회원가입](https://yunyungu.github.io/megabox/join.html)
 
 <br><br>
 
@@ -243,6 +241,8 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 ### :point_right: 7. 멤버십/VIP 페이지 내 상세 컨텐츠
 
-### :point_right: 8. 로그인/회원가입 페이지로의 접근
+### :point_right: 8. 로그인 페이지로의 접근
+
+### :point_right: 9. 회원가입 페이지로의 접근
 
 
