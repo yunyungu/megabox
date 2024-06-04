@@ -185,7 +185,7 @@ vip/vvip/vvip 별 혜택 항목이 다르게 보여집니다.
 모바일 사이트에서는 아이콘을 통하여 항목 별 컨텐츠를 확인할 수 있습니다.
 
 <img width="500" alt="vip desk" src="https://github.com/yunyungu/megabox/assets/157336396/fd7c6f68-d616-4cec-b1f9-aef218e767b8">
-<img width="400" alt="vip mob" src="https://github.com/yunyungu/megabox/assets/157336396/70229ca8-9302-434c-9fa5-34d9daeac2ec">
+<img width="300" alt="vip mob" src="https://github.com/yunyungu/megabox/assets/157336396/70229ca8-9302-434c-9fa5-34d9daeac2ec">
 
 <br><br>
 
