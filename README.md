@@ -282,7 +282,7 @@ data.sort(function(a,b){
 
 > 모바일 사이트
 
-<br>
+<br><br>
 
 ### :point_right: 5. 멤버십/VIP 페이지로의 접근
 
@@ -306,7 +306,7 @@ data.sort(function(a,b){
 
 <img height="300" alt="vip page mobile" src="https://github.com/yunyungu/megabox/assets/157336396/7e23a1a7-ac6b-486d-b659-1b94e40fbe70">
 
-<br>
+<br><br>
 
 ### :point_right: 7. 로그인 페이지
 
@@ -319,9 +319,9 @@ data.sort(function(a,b){
 <img height="400" alt="login desktop" src="https://github.com/yunyungu/megabox/assets/157336396/03f1b2b1-8dec-451f-aca5-23b001a482cf">
 <img height="400" alt="login moblie" src="https://github.com/yunyungu/megabox/assets/157336396/4b4ecef3-4094-4768-924f-3deba8edd892">
 
-<br>
+<br><br>
 
-### :point_right: 7. 로그인 페이지로의 접근
+### :point_right: 8. 로그인 페이지로의 접근
 
 <img height="300" alt="login page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/d4ada380-8433-494b-adfc-e203d2d4cd99">
 <img height="300" alt="login page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/a13e17d4-1c0b-4679-a14e-417cb4bbbf43">
@@ -337,7 +337,7 @@ data.sort(function(a,b){
 
 <br><br>
 
-### :point_right: 8. 회원가입 페이지로의 접근
+### :point_right: 9. 회원가입 페이지로의 접근
 
 <img height="300" alt="signin page desktop" src="https://github.com/yunyungu/megabox/assets/157336396/fb9cd67e-828e-4693-ba25-d3cbc05cd953">
 
@@ -354,6 +354,7 @@ data.sort(function(a,b){
 
 ---
 
+<br>
 지금까지 메가박스 클론코딩 사이트에 대한 가이드였습니다.
 
 감사합니다. :bowtie:
