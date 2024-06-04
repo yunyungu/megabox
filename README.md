@@ -66,7 +66,9 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 데스크톱 사이트에서는 메인 내비게이션이 바로 보여지도록 작업되어있습니다.
 
-<br>
+<img width="500" alt="desk header" src="https://github.com/yunyungu/megabox/assets/157336396/4fe2afda-9990-4071-8d44-391a86f82582">
+
+<br><br>
 
 <img width="500" alt="desk-nav" src="https://github.com/yunyungu/megabox/assets/157336396/2bba9c10-caed-42fd-a3c2-f01d20fb2aa7">
 
@@ -104,6 +106,35 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 <br>
 
 #### 1-2. 모바일사이트
+
+모바일 사이트에서는 더 단순한 형태의 HEADER 구조를 사용합니다.
+
+작은 화면에서 답답하게 보이지 않게 메인 내비게이션 항목들은 보이지 않게 처리하고 별도의 메뉴 페이지가 보여질 수 있도록 작업하였습니다.
+
+<img width="500" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/0b18aef8-c56f-426d-8871-ae4a7d0b1716">
+
+<br><br>
+
+<img width="300" alt="mibile nav" src="https://github.com/yunyungu/megabox/assets/157336396/d52139b5-df5c-42cc-bec0-55e309374ad8">
+<img width="300" alt="mibile nav plus" src="https://github.com/yunyungu/megabox/assets/157336396/001cc610-4061-463b-98bf-0c024d067ba0">
+
+<br>
+
+> <img width="15" alt="menu" src="https://github.com/yunyungu/megabox/assets/157336396/0571b597-f0b9-46f7-9cc9-b121c8ab49d7)">(메뉴) 버튼을 클릭하면 
+> 모바일 내비게이션 페이지가 보여집니다.<br>
+> 위 페이지는 '전체메뉴 보기/닫기' 버튼을 통하여 추가적인 메뉴들을 볼 수 있습니다.
+
+<br>
+
+<img width="500" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/706d7750-f46e-42ce-9257-cec8bff94cbf">
+
+<br>
+
+> <img width="15" alt="user btn" src="https://github.com/yunyungu/megabox/assets/157336396/85c66a92-20d3-4c48-8467-037ab0eae926">(사용자) 버튼
+> 클릭시에는 데스크톱 화면과 동일한 내용이 보여집니다.
+
+
+<br><br>
 
 ### :point_right: 2. 메인 내비게이션 형태
 
