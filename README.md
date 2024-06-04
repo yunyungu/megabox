@@ -66,7 +66,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 데스크톱 사이트에서는 메인 내비게이션이 바로 보여지도록 작업되어있습니다.
 
-<img width="500" alt="desk header" src="https://github.com/yunyungu/megabox/assets/157336396/4fe2afda-9990-4071-8d44-391a86f82582">
+<img width="800" alt="desk header" src="https://github.com/yunyungu/megabox/assets/157336396/4fe2afda-9990-4071-8d44-391a86f82582">
 
 <br><br>
 
@@ -111,7 +111,7 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 작은 화면에서 답답하게 보이지 않게 메인 내비게이션 항목들은 보이지 않게 처리하고 별도의 메뉴 페이지가 보여질 수 있도록 작업하였습니다.
 
-<img width="500" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/0b18aef8-c56f-426d-8871-ae4a7d0b1716">
+<img width="800" alt="mibile header" src="https://github.com/yunyungu/megabox/assets/157336396/0b18aef8-c56f-426d-8871-ae4a7d0b1716">
 
 <br><br>
 
