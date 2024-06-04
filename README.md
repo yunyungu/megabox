@@ -20,10 +20,10 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 * 퍼블리싱
 <br><br>
 <img width="100" alt="vscode" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/01cacb03-858c-4af4-8b85-3a40782f7256">
-<img width="100" alt="css" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/3c97d5f4-0a93-412c-bf39-cdbdbe13b55e">
 <img width="100" alt="html" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/f3e150a5-7e80-4d73-8049-994bdb9968e9">
-<img width="100" alt="jquery" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/26701d80-6296-43b5-b526-3836bdae1856">
+<img width="100" alt="css" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/3c97d5f4-0a93-412c-bf39-cdbdbe13b55e">
 <img width="100" alt="javascript" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/e55a6af9-5f0f-4f1d-95fd-1b2108d2e891">
+<img width="100" alt="jquery" src="https://github.com/yunyungu/yunyungu.github.io/assets/157336396/26701d80-6296-43b5-b526-3836bdae1856">
 
 <br><br>
 
@@ -38,9 +38,9 @@ INDEX, 영화, 멤버십/VIP, 로그인, 회원가입 페이지가 작업되었�
 
 <img width="300" alt="swiper01" src="https://github.com/yunyungu/megabox/assets/157336396/3c8fe62d-0329-4dc4-8393-a0864386e6ea">
 <img width="300" alt="swiper03" src="https://github.com/yunyungu/megabox/assets/157336396/cf181013-7c6e-4448-9523-524ab91ea0be">
-<img width="300" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
-<img width="300" alt="swiper05" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
-<img width="500" alt="swiper04" src="https://github.com/yunyungu/megabox/assets/157336396/57f38893-2b32-4d9c-87aa-b206e068ab1f">
+<img width="400" alt="swiper02" src="https://github.com/yunyungu/megabox/assets/157336396/5ab404d7-35c4-457a-b78e-7f8682dc97e2">
+<img width="250" alt="swiper05" src="https://github.com/yunyungu/megabox/assets/157336396/cdf45b4a-46ba-45c3-8145-14ca8aa3245f">
+<img width="550" alt="swiper04" src="https://github.com/yunyungu/megabox/assets/157336396/57f38893-2b32-4d9c-87aa-b206e068ab1f">
 
 
 <br><br>
